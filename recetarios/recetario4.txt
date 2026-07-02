@@ -1,0 +1,1317 @@
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_001
+NOMBRE: PAICHE A LA PLANCHA CON MAJAO DE YUCA
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: plancha
+
+INGREDIENTES_CLAVE:
+plancha, majao, yuca, gramos, mantequilla, aceite, mezclado, hierbas, aromaticas, limon
+
+INGREDIENTES:
+- • 400 gramos de paiche
+- • 1 cucharada de mantequilla
+- • 2 cucharadas de aceite mezclado con hierbas aromáticas
+- • 1 limón
+- con majao
+- de yuca
+- Edgardo Rojas
+- Chef del restaurante Mishkina
+- 2
+- • Ajo, sal y pimienta al gusto
+- Para el majao:
+- • 1 kilo de yuca
+- • 2 cucharadas de aceite
+- • Mishkina (mezcla de palillo, orégano, sachatomate, hierbas
+- aromáticas, etc.)
+- • 1 cucharada de mantequilla
+- • 1 taza de caldo de pescado
+
+PREPARACION:
+1.
+2.
+1.
+2.
+3.
+6. Filetear el paiche, aderezar con ajos, sal, pimienta y un toque
+7. de limón. Luego llevar a la plancha (engrasada previamente
+8. con mantequilla) y dejar dorar por ambos lados.
+9. Mientras se dora el paiche, agregar el aceite con hierbas
+10. aromáticas (flamear).
+11. Majao de yuca:
+12. Sancochar la yuca y aplastar.
+13. En una sartén, agregar un chorrito de aceite y mantequilla.
+14. Luego incorporar la mishkina y el caldo de pescado.
+15. Combinar esta mezcla con la yuca aplastada.
+16. COMPOSICIÓN
+17. NUTRICIONAL
+18. (1 ración)
+19. ENERGÍA (Kcal)
+20. 630
+21. PROTEÍNAS (g)
+22.6
+23. GRASAS (g)
+20.3
+25. CARBOHIDRATOS (g)
+26. 89
+27. CALCIO (mg)
+80.6
+29. HIERRO (mg)
+30. 1
+31. 3
+32. Explosión
+
+TEXTO_ORIGINAL:
+Paiche a
+la plancha
+Ingredientes: (4 raciones)
+• 400 gramos de paiche
+• 1 cucharada de mantequilla
+• 2 cucharadas de aceite mezclado con hierbas aromáticas
+• 1 limón
+con majao
+de yuca
+Edgardo Rojas
+Chef del restaurante Mishkina
+2
+• Ajo, sal y pimienta al gusto
+Para el majao:
+• 1 kilo de yuca
+• 2 cucharadas de aceite
+• Mishkina (mezcla de palillo, orégano, sachatomate, hierbas
+aromáticas, etc.)
+• 1 cucharada de mantequilla
+• 1 taza de caldo de pescado
+Preparación
+1.
+2.
+1.
+2.
+3.
+Filetear el paiche, aderezar con ajos, sal, pimienta y un toque
+de limón. Luego llevar a la plancha (engrasada previamente
+con mantequilla) y dejar dorar por ambos lados.
+Mientras se dora el paiche, agregar el aceite con hierbas
+aromáticas (flamear).
+Majao de yuca:
+Sancochar la yuca y aplastar.
+En una sartén, agregar un chorrito de aceite y mantequilla.
+Luego incorporar la mishkina y el caldo de pescado.
+Combinar esta mezcla con la yuca aplastada.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+630
+PROTEÍNAS (g)
+22.6
+GRASAS (g)
+20.3
+CARBOHIDRATOS (g)
+89
+CALCIO (mg)
+80.6
+HIERRO (mg)
+1
+3
+Explosión
+
+ETIQUETAS:
+receta_peruana, paiche, plancha, majao, yuca, gramos, mantequilla, aceite, mezclado, hierbas, aromaticas, limon, edgardo, rojas, chef, restaurante, mishkina
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_002
+NOMBRE: EXPLOSIÓN DE PAICHE (PAICHE DORADO EN JUGO DE LULO)
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: paiche
+
+INGREDIENTES_CLAVE:
+paiche, dorado, jugo, lulo, gramos, licuado, cabeza, mishkina, polvo, aji
+
+INGREDIENTES:
+- • 400 gramos de paiche
+- • 1 taza de licuado de cabeza de paiche
+- • 2 cucharaditas de mishkina en polvo
+- • 1 ají dulce picado
+- • 1 cucharada de ají amarillo molido
+- • 4 ramitas de sachaculantro
+- • Chicha de jora y limón al gusto
+- Para el palmito salteado (guarnición):
+- • 2 tazas de palmito en tallos picado
+- • 2 tazas de brócoli sancochado y picado
+- • 1 ají dulce picado en cuadraditos
+- • 1 cucharada de aceite vegetal
+- • Media taza de pimiento picado en cuadrados
+- • Sal y chía al gusto
+
+PREPARACION:
+1.
+2.
+3. • Jugo de tumbo
+4. • 1 cucharada de culantro
+5. • 1 taza y media de vinagre blanco
+6. • Medio kilo de tapioca (yuca fresca)
+7. • 2 hojas de bijao
+8. Para la salsa de lulo:
+9. • 3 tazas de caldo de paiche
+10. • 3 lulos o naranjillas (extraer el jugo)
+3.
+4.
+5.
+14. En una sartén sellar el paiche y cubrirlo con las hojas de bijao.
+15. Encurtido de tapioca: Mezclar en vinagre blanco la tapioca cortada en
+16. láminas con un poco de aceite y culantro al gusto.
+17. Salsa de lulo: mezclar el jugo de lulo con el caldo y el licuado de
+18. cabeza de paiche, la mishkina, el ají dulce picado, ají amarillo,
+19. sachaculantro picado. Agregar el vinagre blanco, chicha de jora
+20. y limón.
+21. Guarnición: En una sartén mezclar el palmito, brócoli, ají dulce,
+22. aceite, pimiento y sal a gusto. Saltear por 6 minutos.
+23. Servir: En un plato colocar la salsa de lulo y luego el paiche
+24. sellado. Decorar con un poco de palmito, agregar el encurtido de
+25. tapioca, rosear un poco de chía y hojitas de culantro y
+26. acompañarlo con el palmito salteado.
+27. COMPOSICIÓN
+28. NUTRICIONAL
+29. (1 ración)
+30. ENERGÍA (Kcal)
+378.5
+32. PROTEÍNAS (g)
+26.5
+34. GRASAS (g)
+13.5
+36. CARBOHIDRATOS (g)
+42.1
+38. CALCIO (mg)
+133.6
+40. HIERRO (mg)
+2.5
+42. 5
+43. 4
+
+TEXTO_ORIGINAL:
+de paiche
+(Paiche dorado
+en jugo de lulo)
+Aldo Vargas
+Chef del hotel Hilton
+Ingredientes: (4 raciones)
+• 400 gramos de paiche
+• 1 taza de licuado de cabeza de paiche
+• 2 cucharaditas de mishkina en polvo
+• 1 ají dulce picado
+• 1 cucharada de ají amarillo molido
+• 4 ramitas de sachaculantro
+• Chicha de jora y limón al gusto
+Para el palmito salteado (guarnición):
+• 2 tazas de palmito en tallos picado
+• 2 tazas de brócoli sancochado y picado
+• 1 ají dulce picado en cuadraditos
+• 1 cucharada de aceite vegetal
+• Media taza de pimiento picado en cuadrados
+• Sal y chía al gusto
+Preparación
+1.
+2.
+• Jugo de tumbo
+• 1 cucharada de culantro
+• 1 taza y media de vinagre blanco
+• Medio kilo de tapioca (yuca fresca)
+• 2 hojas de bijao
+Para la salsa de lulo:
+• 3 tazas de caldo de paiche
+• 3 lulos o naranjillas (extraer el jugo)
+3.
+4.
+5.
+En una sartén sellar el paiche y cubrirlo con las hojas de bijao.
+Encurtido de tapioca: Mezclar en vinagre blanco la tapioca cortada en
+láminas con un poco de aceite y culantro al gusto.
+Salsa de lulo: mezclar el jugo de lulo con el caldo y el licuado de
+cabeza de paiche, la mishkina, el ají dulce picado, ají amarillo,
+sachaculantro picado. Agregar el vinagre blanco, chicha de jora
+y limón.
+Guarnición: En una sartén mezclar el palmito, brócoli, ají dulce,
+aceite, pimiento y sal a gusto. Saltear por 6 minutos.
+Servir: En un plato colocar la salsa de lulo y luego el paiche
+sellado. Decorar con un poco de palmito, agregar el encurtido de
+tapioca, rosear un poco de chía y hojitas de culantro y
+acompañarlo con el palmito salteado.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+378.5
+PROTEÍNAS (g)
+26.5
+GRASAS (g)
+13.5
+CARBOHIDRATOS (g)
+42.1
+CALCIO (mg)
+133.6
+HIERRO (mg)
+2.5
+5
+4
+
+ETIQUETAS:
+receta_peruana, explosion, paiche, dorado, jugo, lulo, gramos, licuado, cabeza, mishkina, polvo, aji, dulce, picado, amarillo, molido, ramitas
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_003
+NOMBRE: PICADILLO DE PAICHE
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: paiche
+
+INGREDIENTES_CLAVE:
+paiche, gramos, medio, kilo, yuca, selvatica
+
+INGREDIENTES:
+- • 400 gramos de paiche
+- • Medio kilo de yuca selvática
+
+PREPARACION:
+1.
+2. • 2 cucharadas de sachaculantro
+3. • 2 cucharadas de mishkina en polvo
+4. • 1 ají dulce
+5. • 2 cebollas
+6. • 1 cucharada de aceite vegetal
+7. • 2 cucharaditas de ajo molido
+8. • Sal y pimienta al gusto
+9. 6
+2.
+3.
+12. En una sartén aderezar con aceite, ajo molido, mishkina,
+13. cebolla picada, sachaculantro y ají dulce. Incluir la pimenta y
+14. sal al gusto.
+15. Agregar al aderezo la yuca sancochada y picada en
+16. cuadraditos, un poco de agua fría y el paiche previamente
+17. lavado y picado en trozos. Esperar que se cocine por 8
+18. minutos.
+19. Servir en un plato con una guarnición de arroz sancochado y
+20. acompañarlo con encurtido de cebolla, vinagre y rocoto.
+21. COMPOSICIÓN
+22. NUTRICIONAL
+23. (1 ración)
+24. ENERGÍA (Kcal)
+502.5
+26. PROTEÍNAS (g)
+22.2
+28. GRASAS (g)
+23.6
+30. CARBOHIDRATOS (g)
+51.4
+32. CALCIO (mg)
+57.3
+34. HIERRO (mg)
+35. 1
+36. 7
+37. Chupe de
+38. gamitana
+39. • Media taza de arvejas frescas
+40. • Un cuarto de taza de zanahoria picado
+41. • Orégano molido al gusto
+
+TEXTO_ORIGINAL:
+Picadillo
+de paiche
+Noé Gutiérrez
+Chef del restaurante La Choza de la Anaconda
+Ingredientes: (4 raciones)
+• 400 gramos de paiche
+• Medio kilo de yuca selvática
+Preparación
+1.
+• 2 cucharadas de sachaculantro
+• 2 cucharadas de mishkina en polvo
+• 1 ají dulce
+• 2 cebollas
+• 1 cucharada de aceite vegetal
+• 2 cucharaditas de ajo molido
+• Sal y pimienta al gusto
+6
+2.
+3.
+En una sartén aderezar con aceite, ajo molido, mishkina,
+cebolla picada, sachaculantro y ají dulce. Incluir la pimenta y
+sal al gusto.
+Agregar al aderezo la yuca sancochada y picada en
+cuadraditos, un poco de agua fría y el paiche previamente
+lavado y picado en trozos. Esperar que se cocine por 8
+minutos.
+Servir en un plato con una guarnición de arroz sancochado y
+acompañarlo con encurtido de cebolla, vinagre y rocoto.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+502.5
+PROTEÍNAS (g)
+22.2
+GRASAS (g)
+23.6
+CARBOHIDRATOS (g)
+51.4
+CALCIO (mg)
+57.3
+HIERRO (mg)
+1
+7
+Chupe de
+gamitana
+• Media taza de arvejas frescas
+• Un cuarto de taza de zanahoria picado
+• Orégano molido al gusto
+
+ETIQUETAS:
+receta_peruana, picadillo, paiche, gramos, medio, kilo, yuca, selvatica
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_004
+NOMBRE: CHUPE DE GAMITANA
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: gamitana
+
+INGREDIENTES_CLAVE:
+gamitana, gramos, litro, medio, caldo, fondo, pescado, habas, frescas, achiote
+
+INGREDIENTES:
+- • 400 gramos de gamitana
+- • Litro y medio de caldo o fondo de pescado
+- • 1 taza de habas frescas
+- • 1 cucharada de achiote molido
+- • Media taza de queso fresco picado
+- • Media taza de arroz
+- • Media taza de choclo desgranado
+- • 2 papas amarillas (pequeñas)
+- 8
+- • 4 hojas de orégano selvático
+- • Ajo molido y pimienta al gusto
+- • 1 cucharada de aceite vegetal
+
+PREPARACION:
+1.
+2.
+3.
+4.
+5.
+6. Aderezo: en una sartén colocar un poco de aceite y dorar la
+7. cebolla, ajo y achiote. Agregar pimienta al gusto.
+8. En una olla echar el caldo de pescado, la gamitana en trozos y
+9. agregar el aderezo.
+10. Añadir la zanahoria, habas, choclo, arvejas y el arroz.
+11. Agregar sal y hervir por 20 minutos.
+12. Incorporar la papa amarilla, el huevo batido y el orégano en
+13. polvo. Cocinar a fuego bajo, agregar la leche evaporada y el
+14. queso fresco en trozos.
+15. Al finalizar echar el orégano selvático (reemplaza al huacatay).
+16. COMPOSICIÓN
+17. NUTRICIONAL
+18. (1 ración)
+19. ENERGÍA (Kcal)
+456.3
+21. PROTEÍNAS (g)
+33.4
+23. GRASAS (g)
+14.8
+25. CARBOHIDRATOS (g)
+49.7
+27. CALCIO (mg)
+204.6
+29. HIERRO (mg)
+2.6
+31. 9
+
+TEXTO_ORIGINAL:
+• 1 taza de leche evaporada
+• 2 huevos batidos
+• 2 cucharadas de cebolla picada
+Fernando Arévalo
+Chef del restaurante El Pichito
+Ingredientes: (4 raciones)
+• 400 gramos de gamitana
+• Litro y medio de caldo o fondo de pescado
+• 1 taza de habas frescas
+• 1 cucharada de achiote molido
+• Media taza de queso fresco picado
+• Media taza de arroz
+• Media taza de choclo desgranado
+• 2 papas amarillas (pequeñas)
+8
+• 4 hojas de orégano selvático
+• Ajo molido y pimienta al gusto
+• 1 cucharada de aceite vegetal
+Preparación
+1.
+2.
+3.
+4.
+5.
+Aderezo: en una sartén colocar un poco de aceite y dorar la
+cebolla, ajo y achiote. Agregar pimienta al gusto.
+En una olla echar el caldo de pescado, la gamitana en trozos y
+agregar el aderezo.
+Añadir la zanahoria, habas, choclo, arvejas y el arroz.
+Agregar sal y hervir por 20 minutos.
+Incorporar la papa amarilla, el huevo batido y el orégano en
+polvo. Cocinar a fuego bajo, agregar la leche evaporada y el
+queso fresco en trozos.
+Al finalizar echar el orégano selvático (reemplaza al huacatay).
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+456.3
+PROTEÍNAS (g)
+33.4
+GRASAS (g)
+14.8
+CARBOHIDRATOS (g)
+49.7
+CALCIO (mg)
+204.6
+HIERRO (mg)
+2.6
+9
+
+ETIQUETAS:
+receta_peruana, chupe, gamitana, gramos, litro, medio, caldo, fondo, pescado, habas, frescas, achiote, molido, media, queso, fresco, picado
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_005
+NOMBRE: CEBICHE DE PAICHE
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: paiche
+
+INGREDIENTES_CLAVE:
+paiche, gramos, medio, kilo, limon, cebolla
+
+INGREDIENTES:
+- • 400 gramos de paiche
+- • Medio kilo de limón
+- • Medio kilo de cebolla
+
+PREPARACION:
+1.
+2.
+3. • Un cuarto de taza de leche evaporada
+4. • 1 taza y media de choclo cocido desgranado
+5. • 1 charapita
+6. • Un cuarto de kilo de yuca sancochada
+7. • 4 hojas de lechuga
+8. • Culantro, sal, pimienta, ajo molido y zumo
+9. de kion al gusto
+10. 10
+11. Mezclar en un recipiente el paiche cortado en cubos con el
+12. jugo de limón, sal, pimienta, zumo de kion, leche y culantro.
+13. Agregar la cebolla cortada en pluma y servir en un plato.
+14. Acompañar con el choclo, ají charapita finamente picado,
+15. yuca y lechuga. Opcionalmete se puede incorporar camote y
+16. chifles.
+17. COMPOSICIÓN
+18. NUTRICIONAL
+19. (1 ración)
+20. ENERGÍA (Kcal)
+21. 528
+22. PROTEÍNAS (g)
+27.9
+24. GRASAS (g)
+6.1
+26. CARBOHIDRATOS (g)
+27. 96
+28. CALCIO (mg)
+78.5
+30. HIERRO (mg)
+2.9
+32. 11
+
+TEXTO_ORIGINAL:
+Cebiche
+de paiche
+Karla La Torre
+Chef del restaurante El Guacamayo
+Ingredientes: (4 raciones)
+• 400 gramos de paiche
+• Medio kilo de limón
+• Medio kilo de cebolla
+Preparación
+1.
+2.
+• Un cuarto de taza de leche evaporada
+• 1 taza y media de choclo cocido desgranado
+• 1 charapita
+• Un cuarto de kilo de yuca sancochada
+• 4 hojas de lechuga
+• Culantro, sal, pimienta, ajo molido y zumo
+de kion al gusto
+10
+Mezclar en un recipiente el paiche cortado en cubos con el
+jugo de limón, sal, pimienta, zumo de kion, leche y culantro.
+Agregar la cebolla cortada en pluma y servir en un plato.
+Acompañar con el choclo, ají charapita finamente picado,
+yuca y lechuga. Opcionalmete se puede incorporar camote y
+chifles.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+528
+PROTEÍNAS (g)
+27.9
+GRASAS (g)
+6.1
+CARBOHIDRATOS (g)
+96
+CALCIO (mg)
+78.5
+HIERRO (mg)
+2.9
+11
+
+ETIQUETAS:
+receta_peruana, cebiche, paiche, gramos, medio, kilo, limon, cebolla
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_006
+NOMBRE: PAICHE CON QUINUA Y SALSA CURRY
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: quinua
+
+INGREDIENTES_CLAVE:
+quinua, salsa, curry
+
+INGREDIENTES:
+- No especificado en el texto original.
+
+PREPARACION:
+1.
+1.
+3. Salar el pescado por 20 minutos, enjuagar con poca agua y
+4. cocinar en plancha con un chorro de aceite por ambos lados
+5. hasta dorar. Reservar.
+6. Puré de plátano
+7. Sanchocar el plátano con su cáscara por 20 minutos, retirar y
+1.
+9. • 400 gramos de paiche
+10. • Media taza de quinua
+11. • 4 plátanos bellaco
+12. • 2 cucharas de aceite de oliva
+13. • Sal, pimienta, comino y orégano al gusto
+14. Salsa curry:
+15. • 20 gramos de palillo fresco (cúrcuma)
+16. • 1 taza de jugo de castaña
+17. • 1 taza de caldo de pescado
+18. • 2 cucharadas de cebolla picada
+19. Hierbas variadas:
+20. • Perejil, culantro y arúgula al gusto.
+21. 12
+1.
+1.
+2.
+25. •
+26. licuar. Reservar.
+27. Quinua
+28. Cocinar la quinua con agua y sal por 7 minutos. Retirar, colar
+29. y mezclar con las castañas picadas y perejil.
+30. Jugo de castaña
+31. Remojar un cuarto de kilo de castañas en dos litros de agua
+32. durante 8 horas. Al día siguiente, licuar y colar.
+33. Salsa curry
+34. Cocinar el palillo fresco hasta que esté suave. Pelar y licuar con
+35. un poco de sal, pimienta comino y orégano.
+36. Agregar caldo de pescado, jugo de castaña y cebolla. Reducir a
+37. punto salsa.
+38. Emplatado:
+39. Servir de base el puré, encima la quinua. Luego, colocar el
+40. pescado y terminar con la salsa y un mix de hojas verdes.
+41. COMPOSICIÓN
+42. NUTRICIONAL
+43. (1 ración)
+44. ENERGÍA (Kcal)
+45. 603
+46. PROTEÍNAS (g)
+28.3
+48. GRASAS (g)
+23.8
+50. CARBOHIDRATOS (g)
+79.5
+52. CALCIO (mg)
+78.5
+54. HIERRO (mg)
+3.8
+56. 13
+
+TEXTO_ORIGINAL:
+Paiche con
+quinua y
+salsa curry
+Andrés Orellana
+Chef del restaurante La Niña
+Ingredientes: (4 raciones)
+Preparación
+1.
+1.
+Salar el pescado por 20 minutos, enjuagar con poca agua y
+cocinar en plancha con un chorro de aceite por ambos lados
+hasta dorar. Reservar.
+Puré de plátano
+Sanchocar el plátano con su cáscara por 20 minutos, retirar y
+1.
+• 400 gramos de paiche
+• Media taza de quinua
+• 4 plátanos bellaco
+• 2 cucharas de aceite de oliva
+• Sal, pimienta, comino y orégano al gusto
+Salsa curry:
+• 20 gramos de palillo fresco (cúrcuma)
+• 1 taza de jugo de castaña
+• 1 taza de caldo de pescado
+• 2 cucharadas de cebolla picada
+Hierbas variadas:
+• Perejil, culantro y arúgula al gusto.
+12
+1.
+1.
+2.
+•
+licuar. Reservar.
+Quinua
+Cocinar la quinua con agua y sal por 7 minutos. Retirar, colar
+y mezclar con las castañas picadas y perejil.
+Jugo de castaña
+Remojar un cuarto de kilo de castañas en dos litros de agua
+durante 8 horas. Al día siguiente, licuar y colar.
+Salsa curry
+Cocinar el palillo fresco hasta que esté suave. Pelar y licuar con
+un poco de sal, pimienta comino y orégano.
+Agregar caldo de pescado, jugo de castaña y cebolla. Reducir a
+punto salsa.
+Emplatado:
+Servir de base el puré, encima la quinua. Luego, colocar el
+pescado y terminar con la salsa y un mix de hojas verdes.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+603
+PROTEÍNAS (g)
+28.3
+GRASAS (g)
+23.8
+CARBOHIDRATOS (g)
+79.5
+CALCIO (mg)
+78.5
+HIERRO (mg)
+3.8
+13
+
+ETIQUETAS:
+receta_peruana, paiche, quinua, salsa, curry
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_007
+NOMBRE: CAUSA RELLENA CON PAICHE
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: rellena
+
+INGREDIENTES_CLAVE:
+rellena, paiche, gramos, sancochado, mayonesa, cocona, aceite, vegetal, huevos
+
+INGREDIENTES:
+- • 400 gramos de paiche sancochado
+- Para la mayonesa:
+- • 1 cocona
+- • 2 cucharadas de aceite vegetal
+- • 2 huevos
+
+PREPARACION:
+1.
+2. Sancochar y prensar la papa amarilla, agregar ají amarillo, ají
+3. dulce, pimienta, sal y aceite. Combinar la mezcla hasta que
+4. quede uniforme. Reservar.
+5. • Un cuarto de taza de choclo desgranado
+6. • 1 kg de papa amarilla
+7. • Un cuarto de taza de arvejas frescas y cocida
+8. • Un cuarto de taza de zanahoria picada y cocida
+9. • Un cuarto de taza de brócoli sancochado
+10. • 3 cucharas de ají amarillo molido
+11. • 2 cucharas de ají dulce de la selva molido
+12. • 4 limomes
+13. • 1 palta cortada en gajos
+14. • Sal y pimienta al gusto
+15. 14
+1.
+1.
+2.
+19. Relleno:
+20. Mezclar el paiche desmenuzado con la zanahoria, arvejas,
+21. brócoli, sal y añadir la mayonesa de cocona.
+22. Armado:
+23. En un molde colocar una lámina de papa prensada como base,
+24. encima agregar la palta más el relleno. Cubrir con otra capa de
+25. papa prensada.
+26. Decorar con pequeños trozos de palta y un poco de mayonesa de
+27. cocona.
+28. COMPOSICIÓN
+29. NUTRICIONAL
+30. (1 ración)
+31. ENERGÍA (Kcal)
+453.4
+33. PROTEÍNAS (g)
+28.5
+35. GRASAS (g)
+8.9
+37. CARBOHIDRATOS (g)
+38. 68
+39. CALCIO (mg)
+
+TEXTO_ORIGINAL:
+Causa
+rellena
+con paiche
+Fernando Arévalo
+Chef del restaurante El Pichito
+Ingredientes: (4 raciones)
+• 400 gramos de paiche sancochado
+Para la mayonesa:
+• 1 cocona
+• 2 cucharadas de aceite vegetal
+• 2 huevos
+Preparación
+1.
+Sancochar y prensar la papa amarilla, agregar ají amarillo, ají
+dulce, pimienta, sal y aceite. Combinar la mezcla hasta que
+quede uniforme. Reservar.
+• Un cuarto de taza de choclo desgranado
+• 1 kg de papa amarilla
+• Un cuarto de taza de arvejas frescas y cocida
+• Un cuarto de taza de zanahoria picada y cocida
+• Un cuarto de taza de brócoli sancochado
+• 3 cucharas de ají amarillo molido
+• 2 cucharas de ají dulce de la selva molido
+• 4 limomes
+• 1 palta cortada en gajos
+• Sal y pimienta al gusto
+14
+1.
+1.
+2.
+Relleno:
+Mezclar el paiche desmenuzado con la zanahoria, arvejas,
+brócoli, sal y añadir la mayonesa de cocona.
+Armado:
+En un molde colocar una lámina de papa prensada como base,
+encima agregar la palta más el relleno. Cubrir con otra capa de
+papa prensada.
+Decorar con pequeños trozos de palta y un poco de mayonesa de
+cocona.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+453.4
+PROTEÍNAS (g)
+28.5
+GRASAS (g)
+8.9
+CARBOHIDRATOS (g)
+68
+CALCIO (mg)
+
+ETIQUETAS:
+receta_peruana, causa, rellena, paiche, gramos, sancochado, mayonesa, cocona, aceite, vegetal, huevos
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_008
+NOMBRE: PAICHE ENVUELTO EN HOJA DE BIJAO CON PATACONES
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: envuelto
+
+INGREDIENTES_CLAVE:
+envuelto, hoja, bijao, patacones, gramos, oregano, aji, charapita, cuarto, sachatomate
+
+INGREDIENTES:
+- Paiche
+- envuelto
+- en hoja de
+- • 400 gramos de paiche
+- • 2 cucharadas de orégano
+- • 1 ají charapita
+- • Un cuarto de taza de sachatomate
+- • Mishkina (mezcla de palillo, orégano,
+- sachatomate, hierbas aromáticas, etc.)
+- • 1 limón
+- • 1 taza de caldo de pescado
+- • Hojas de bijao
+- • Sal, pimienta y ajo al gusto
+- bijao con
+- patacones
+- Edgardo Rojas
+- Chef del restaurante Mishkina
+- 16
+- • 4 plátanos bellaco
+
+PREPARACION:
+1.
+2.
+3.
+4.
+1.
+2.
+3.
+8. Colocar el filete de paiche con sal sobre la hoja de bijao.
+9. En un recipiente mezclar el sachatomate picado, mishkina,
+10. orégano, ají, ajo y pimienta. Luego colocar la mezcla encima del
+11. filete de paiche con un toque de jugo de limón.
+12. Envolver y amarrar las hojas de bijao (asegurarse que esté bien
+13. envuelto para evitar el ingreso de agua durante la cocción).
+14. Cocinar en baño maría, con el caldo de pescado por
+15. aproximadamente 15 minutos.
+16. Patacones (acompañamiento):
+17. Pelar los plátanos y cortarlos en rodajas gruesas.
+18. Freír a término medio, retirar y golpear por el medio cada trozo
+19. de plátano hasta que se abra por los lados.
+20. Completar la fritura.
+21. COMPOSICIÓN
+22. NUTRICIONAL
+23. (1 ración)
+24. ENERGÍA (Kcal)
+521.5
+26. PROTEÍNAS (g)
+23.2
+28. GRASAS (g)
+29. 13
+30. CARBOHIDRATOS (g)
+88.6
+32. CALCIO (mg)
+
+TEXTO_ORIGINAL:
+56.2
+HIERRO (mg)
+2.1
+15
+Ingredientes: (4 raciones)
+Paiche
+envuelto
+en hoja de
+• 400 gramos de paiche
+• 2 cucharadas de orégano
+• 1 ají charapita
+• Un cuarto de taza de sachatomate
+• Mishkina (mezcla de palillo, orégano,
+sachatomate, hierbas aromáticas, etc.)
+• 1 limón
+• 1 taza de caldo de pescado
+• Hojas de bijao
+• Sal, pimienta y ajo al gusto
+bijao con
+patacones
+Edgardo Rojas
+Chef del restaurante Mishkina
+16
+• 4 plátanos bellaco
+Preparación
+1.
+2.
+3.
+4.
+1.
+2.
+3.
+Colocar el filete de paiche con sal sobre la hoja de bijao.
+En un recipiente mezclar el sachatomate picado, mishkina,
+orégano, ají, ajo y pimienta. Luego colocar la mezcla encima del
+filete de paiche con un toque de jugo de limón.
+Envolver y amarrar las hojas de bijao (asegurarse que esté bien
+envuelto para evitar el ingreso de agua durante la cocción).
+Cocinar en baño maría, con el caldo de pescado por
+aproximadamente 15 minutos.
+Patacones (acompañamiento):
+Pelar los plátanos y cortarlos en rodajas gruesas.
+Freír a término medio, retirar y golpear por el medio cada trozo
+de plátano hasta que se abra por los lados.
+Completar la fritura.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+521.5
+PROTEÍNAS (g)
+23.2
+GRASAS (g)
+13
+CARBOHIDRATOS (g)
+88.6
+CALCIO (mg)
+
+ETIQUETAS:
+receta_peruana, paiche, envuelto, hoja, bijao, patacones, gramos, oregano, aji, charapita, cuarto, sachatomate, mishkina, mezcla, palillo, hierbas, aromaticas
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_009
+NOMBRE: EMPANADA DE YUCA CON PICADILLO DE PAICHE
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: yuca
+
+INGREDIENTES_CLAVE:
+yuca, picadillo, paiche, gramos, cebollas, aji, dulce, selva, ramas, sachaculantro
+
+INGREDIENTES:
+- Empanada
+- de yuca
+- con
+- picadillo
+- de paiche
+- • 400 gramos de paiche
+- • 2 cebollas
+- • 1 ají dulce de la selva
+- • 2 ramas de sachaculantro
+- • Media taza de vainitas selváticas
+- • 1 cucharadita de ajo molido
+- • 1 cucharadita de palillo
+- • 1 kilo de yuca
+- • Un cuarto de taza de harina de trigo
+- • 1 cucharada de aceite vegetal
+- • Sal y pimienta al gusto
+
+PREPARACION:
+1.
+2.
+3.
+4. Fernando Arévalo
+5. Chef del restaurante El Pichito
+6. 18
+4.
+5.
+6.
+7.
+11. Para la masa, sancochar la yuca y prensarla. Agregar sal y
+12. poco a poco la harina de trigo. Reservar.
+13. Sancochar el paiche y desmenuzar.
+14. Relleno: En una sartén preparar un aderezo con el aceite, cebolla
+15. picada, ajo, pimienta y palillo. Agregar el paiche, la vainita, el
+16. ají dulce y sal al gusto. Esparcir un poco de sachaculantro
+17. picado.
+18. Aparte estirar la masa de yuca con un rodillo y cortar en forma
+19. de discos de aproximadamente 10 cm de diámetro con un vaso o
+20. un cortador.
+21. Coloque una porción de relleno en cada disco y doble por la
+22. mitad cubriendo el relleno.
+23. Pegue los bordes presionando con los dedos o con un tenedor.
+24. Freír.
+25. Se puede acompañar con lechuga y salsa de cebolla .
+26. COMPOSICIÓN
+27. NUTRICIONAL
+28. (1 ración)
+29. ENERGÍA (Kcal)
+591.7
+31. PROTEÍNAS (g)
+24.8
+33. GRASAS (g)
+7.7
+35. CARBOHIDRATOS (g)
+107.8
+37. CALCIO (mg)
+178.9
+39. HIERRO (mg)
+2.6
+41. 19
+
+TEXTO_ORIGINAL:
+55.4
+HIERRO (mg)
+2.2
+17
+Ingredientes: (4 raciones)
+Empanada
+de yuca
+con
+picadillo
+de paiche
+• 400 gramos de paiche
+• 2 cebollas
+• 1 ají dulce de la selva
+• 2 ramas de sachaculantro
+• Media taza de vainitas selváticas
+• 1 cucharadita de ajo molido
+• 1 cucharadita de palillo
+• 1 kilo de yuca
+• Un cuarto de taza de harina de trigo
+• 1 cucharada de aceite vegetal
+• Sal y pimienta al gusto
+Preparación
+1.
+2.
+3.
+Fernando Arévalo
+Chef del restaurante El Pichito
+18
+4.
+5.
+6.
+7.
+Para la masa, sancochar la yuca y prensarla. Agregar sal y
+poco a poco la harina de trigo. Reservar.
+Sancochar el paiche y desmenuzar.
+Relleno: En una sartén preparar un aderezo con el aceite, cebolla
+picada, ajo, pimienta y palillo. Agregar el paiche, la vainita, el
+ají dulce y sal al gusto. Esparcir un poco de sachaculantro
+picado.
+Aparte estirar la masa de yuca con un rodillo y cortar en forma
+de discos de aproximadamente 10 cm de diámetro con un vaso o
+un cortador.
+Coloque una porción de relleno en cada disco y doble por la
+mitad cubriendo el relleno.
+Pegue los bordes presionando con los dedos o con un tenedor.
+Freír.
+Se puede acompañar con lechuga y salsa de cebolla .
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+591.7
+PROTEÍNAS (g)
+24.8
+GRASAS (g)
+7.7
+CARBOHIDRATOS (g)
+107.8
+CALCIO (mg)
+178.9
+HIERRO (mg)
+2.6
+19
+
+ETIQUETAS:
+receta_peruana, empanada, yuca, picadillo, paiche, gramos, cebollas, aji, dulce, selva, ramas, sachaculantro, media, vainitas, selvaticas, ajo, molido
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario4_010
+NOMBRE: ABRUTO TU PAICHE
+FUENTE: recetario4.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 raciones
+INGREDIENTE_PRINCIPAL: paiche
+
+INGREDIENTES_CLAVE:
+paiche, gramos, trozos, aji, dulce, picado, chorizo, ajies, charapita, aceite
+
+INGREDIENTES:
+- • 400 gramos de paiche en trozos
+- • 1 ají dulce picado
+- • 120 gramos de chorizo picado en trozos
+- • 4 ajíes charapita
+- • 2 cucharadas de aceite
+- • Sal y pimienta
+- Salsa de chorizo:
+- Puré de aguaje:
+- • 4 Aguajes medianos
+- • 1/4 de taza de leche
+- • 3 cucharadas de crema de leche
+- • 3 cucharadas de azúcar
+
+PREPARACION:
+1.
+2.
+3. Para la salsa de chorizo:
+4. En una placa para horno colocar el chorizo, el ají dulce, la cebolla,
+5. los ajos, los tomates y bañarlos con aceite vegetal. Sazonar con sal
+6. y pimienta y cocinar hasta que las verduras estén tostadas.
+7. En una olla colocar las verduras, los chorizos tostados y la pasta
+8. de tomate. Cocinar a fuego lento.  Agregar los huesos de pescado
+9. y el caldo de pollo. Hervir, bajar el fuego, retirar las impurezas y
+10. cocinar por dos horas. Colocar el sacha culantro los últimos 30
+1.
+12. • 150 gramos de chorizo regional en trozos
+13. • 200 gramos de hueso de pescado, tostado
+14. • 3 ajíes dulces picado en trozos
+15. • 1 cebolla roja picada
+16. • 1 diente de ajo picado
+17. • Media tasa de paste de tomate
+18. • 2 tomates picado en trozos
+19. • 2 ramitas de sachaculantro picado
+20. • 1 litro y medio de caldo de pollo
+21. • 1 cucharada de aceite
+1.
+2.
+24. minutos de la cocción. Colar la salsa y regresar a la olla. Reservar.
+25. Para el puré de aguaje:
+26. En una olla a fuego bajo, colocar todos los ingredientes y mezclar.
+27. Cocinar hasta obtener la consistencia de un puré. Licuar el puré para
+28. emulsionar y obtener una consistencia sedosa. Colar la preparación
+29. y mantenerlo caliente.
+30. Para el armado:
+31. En un sartén a fuego medio, dorar los trozos de chorizo. Reservar.
+32. En la misma sartén agregar los ajíes dulces y el paiche y sazonar
+33. con sal y pimienta. Cocinar hasta que el pescado este jugoso.
+34. Agregar la salsa, los ajíes charapitas aplastados y los chorizos.
+35. Mezclar bien y retirar del fuego.
+36. En un plato colocar el puré en el centro y sobre este el paiche con
+37. los trozos de chorizo y bañar con la salsa.
+38. COMPOSICIÓN
+39. NUTRICIONAL
+40. (1 ración)
+41. ENERGÍA (Kcal)
+497.2
+43. PROTEÍNAS (g)
+18.4
+45. GRASAS (g)
+32.9
+47. CARBOHIDRATOS (g)
+36.5
+49. CALCIO (mg)
+117.1
+51. HIERRO (mg)
+5.4
+53. 20
+54. 21
+55. Programa Nacional “A Comer Pescado”
+56. Ministerio de la Producción
+57. Calle Antequera 671, urb. Jardín, San Isidro, Lima
+58. Teléfono: (511) 614 8333
+59. www.acomerpescado.gob.pe
+60. Ver videos de las recetas
+61. en nuestro canal YouTube:
+62. A Comer Pescado
+63. A Comer Pescado Perú
+64. SABORES AMAZÓNICOS: Pescados de sus ríos y cochas
+65. Autor: Programa Nacional “A Comer Pescado”
+66. Editado por:
+67. Programa Nacional “A Comer Pescado”
+68. Calle Antequera 671, urb. Jardín, San Isidro, Lima
+69. Editor: Programa Nacional “A Comer Pescado”
+70. Primera edición - mayo 2018
+71. HECHO EL DEPÓSITO LEGAL EN LA
+72. BIBLIOTECA NACIONAL DEL PERÚ N° 2018-06470
+73. Se terminó de imprimir en mayo de 2018 en:
+74. GRAFICA BRANS FOR E.I.R.L.
+75. Jr. Ica 635, int. 102, Cercado de Lima, Lima
+
+TEXTO_ORIGINAL:
+Abruto tu
+paiche
+Mauricio Barbón
+Chef del restaurante amaZ
+Ingredientes: (4 raciones)
+• 400 gramos de paiche en trozos
+• 1 ají dulce picado
+• 120 gramos de chorizo picado en trozos
+• 4 ajíes charapita
+• 2 cucharadas de aceite
+• Sal y pimienta
+Salsa de chorizo:
+Puré de aguaje:
+• 4 Aguajes medianos
+• 1/4 de taza de leche
+• 3 cucharadas de crema de leche
+• 3 cucharadas de azúcar
+Preparación
+1.
+2.
+Para la salsa de chorizo:
+En una placa para horno colocar el chorizo, el ají dulce, la cebolla,
+los ajos, los tomates y bañarlos con aceite vegetal. Sazonar con sal
+y pimienta y cocinar hasta que las verduras estén tostadas.
+En una olla colocar las verduras, los chorizos tostados y la pasta
+de tomate. Cocinar a fuego lento.  Agregar los huesos de pescado
+y el caldo de pollo. Hervir, bajar el fuego, retirar las impurezas y
+cocinar por dos horas. Colocar el sacha culantro los últimos 30
+1.
+• 150 gramos de chorizo regional en trozos
+• 200 gramos de hueso de pescado, tostado
+• 3 ajíes dulces picado en trozos
+• 1 cebolla roja picada
+• 1 diente de ajo picado
+• Media tasa de paste de tomate
+• 2 tomates picado en trozos
+• 2 ramitas de sachaculantro picado
+• 1 litro y medio de caldo de pollo
+• 1 cucharada de aceite
+1.
+2.
+minutos de la cocción. Colar la salsa y regresar a la olla. Reservar.
+Para el puré de aguaje:
+En una olla a fuego bajo, colocar todos los ingredientes y mezclar.
+Cocinar hasta obtener la consistencia de un puré. Licuar el puré para
+emulsionar y obtener una consistencia sedosa. Colar la preparación
+y mantenerlo caliente.
+Para el armado:
+En un sartén a fuego medio, dorar los trozos de chorizo. Reservar.
+En la misma sartén agregar los ajíes dulces y el paiche y sazonar
+con sal y pimienta. Cocinar hasta que el pescado este jugoso.
+Agregar la salsa, los ajíes charapitas aplastados y los chorizos.
+Mezclar bien y retirar del fuego.
+En un plato colocar el puré en el centro y sobre este el paiche con
+los trozos de chorizo y bañar con la salsa.
+COMPOSICIÓN
+NUTRICIONAL
+(1 ración)
+ENERGÍA (Kcal)
+497.2
+PROTEÍNAS (g)
+18.4
+GRASAS (g)
+32.9
+CARBOHIDRATOS (g)
+36.5
+CALCIO (mg)
+117.1
+HIERRO (mg)
+5.4
+20
+21
+Programa Nacional “A Comer Pescado”
+Ministerio de la Producción
+Calle Antequera 671, urb. Jardín, San Isidro, Lima
+Teléfono: (511) 614 8333
+www.acomerpescado.gob.pe
+Ver videos de las recetas
+en nuestro canal YouTube:
+A Comer Pescado
+A Comer Pescado Perú
+SABORES AMAZÓNICOS: Pescados de sus ríos y cochas
+Autor: Programa Nacional “A Comer Pescado”
+Editado por:
+Programa Nacional “A Comer Pescado”
+Calle Antequera 671, urb. Jardín, San Isidro, Lima
+Editor: Programa Nacional “A Comer Pescado”
+Primera edición - mayo 2018
+HECHO EL DEPÓSITO LEGAL EN LA
+BIBLIOTECA NACIONAL DEL PERÚ N° 2018-06470
+Se terminó de imprimir en mayo de 2018 en:
+GRAFICA BRANS FOR E.I.R.L.
+Jr. Ica 635, int. 102, Cercado de Lima, Lima
+
+ETIQUETAS:
+receta_peruana, abruto, paiche, gramos, trozos, aji, dulce, picado, chorizo, ajies, charapita, aceite, pimienta, salsa, pure, aguaje, aguajes
+<<<RECETA_FIN>>>

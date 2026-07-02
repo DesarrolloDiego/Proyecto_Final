@@ -1,0 +1,32 @@
+[
+  {
+    "archivo": "recetario1.txt",
+    "ruta": "recetarios\\recetario1.txt",
+    "tamano_bytes": 89204,
+    "recetas": 25
+  },
+  {
+    "archivo": "recetario2.txt",
+    "ruta": "recetarios\\recetario2.txt",
+    "tamano_bytes": 125432,
+    "recetas": 29
+  },
+  {
+    "archivo": "recetario3.txt",
+    "ruta": "recetarios\\recetario3.txt",
+    "tamano_bytes": 69773,
+    "recetas": 25
+  },
+  {
+    "archivo": "recetario4.txt",
+    "ruta": "recetarios\\recetario4.txt",
+    "tamano_bytes": 35192,
+    "recetas": 10
+  },
+  {
+    "archivo": "recetario5.txt",
+    "ruta": "recetarios\\recetario5.txt",
+    "tamano_bytes": 136661,
+    "recetas": 59
+  }
+]

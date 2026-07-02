@@ -1,0 +1,3189 @@
+Edición digital para  
+prevenir y combatir la anemia
+Con la validación del: 
+25
+RECETAS
+RICAS Y 
+NUTRITIVAS
+Entradas / Edición especial para prevenir y combatir la anemia
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_001
+NOMBRE: PALTA RELLENA CON ANCHOVETA
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: rellena
+
+INGREDIENTES_CLAVE:
+rellena, anchoveta, paltas, latas, zanahoria, arvejas, frescas, mayonesa
+
+INGREDIENTES:
+- 2
+- 2
+- 1
+- 1
+- 4
+- paltas
+- latas de anchoveta (120 g c/u)
+- zanahoria
+- taza de arvejas frescas
+- cucharadas de mayonesa
+
+PREPARACION:
+1. Pelar las paltas, sacar las
+2. pepas y partir por la mitad
+2. Pelar las arvejas y ponerlas
+4. a sancochar junto con
+5. la zanahoria, el huevo
+6. y las papas amarillas
+3. Picar la zanahoria,
+8. las papas y el huevo
+9. en cuadraditos
+4. En un recipiente
+11. mezclar la mayonesa con las
+12. arvejas, las papas, el huevo
+13. y las anchovetas picadas.
+14. Agregar jugo de limón,
+15. pimienta, culantro
+16. picado y sal
+5. Colocar la mezcla
+18. preparada en el hueco
+19. que dejó la pepa
+20. de la palta. Acompañar
+21. con hojas de lechuga.
+22. 2
+23. 1
+24. 1
+25. 4
+26. papas amarillas
+27. huevo
+28. limón
+29. hojas de lechuga
+30. Culantro, pimienta y sal a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.35 mg
+Fe
+Entradas / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Palta rellena con anchoveta
+(4 porciones)
+Ingredientes
+2
+2
+1
+1
+4
+paltas
+latas de anchoveta (120 g c/u)
+zanahoria
+taza de arvejas frescas
+cucharadas de mayonesa
+Preparación
+1. Pelar las paltas, sacar las
+pepas y partir por la mitad
+2. Pelar las arvejas y ponerlas
+a sancochar junto con
+la zanahoria, el huevo
+y las papas amarillas
+3. Picar la zanahoria,
+las papas y el huevo
+en cuadraditos
+4. En un recipiente
+mezclar la mayonesa con las
+arvejas, las papas, el huevo
+y las anchovetas picadas.
+Agregar jugo de limón,
+pimienta, culantro
+picado y sal
+5. Colocar la mezcla
+preparada en el hueco
+que dejó la pepa
+de la palta. Acompañar
+con hojas de lechuga.
+2
+1
+1
+4
+papas amarillas
+huevo
+limón
+hojas de lechuga
+Culantro, pimienta y sal a gusto
+EL TIP
+3
+La anchoveta es un aliado en
+la lucha contra la anemia: 100
+miligramos de su carne aportan
+3.04 miligramos de hierro.
+Una porción contiene:
+Hierro: 4.35 mg
+Fe
+Entradas / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, palta, rellena, anchoveta, paltas, latas, zanahoria, arvejas, frescas, mayonesa
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_002
+NOMBRE: ENSALADA VERDE
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: verde
+
+INGREDIENTES_CLAVE:
+verde, papas, zanahoria, choclo, arvejas, frescas, peladas, vainitas, picadas
+
+INGREDIENTES:
+- 2
+- 1
+- 1
+- 1
+- 1
+- papas
+- zanahoria
+- choclo
+- taza de arvejas frescas peladas
+- taza de vainitas picadas
+
+PREPARACION:
+1. Cortar las papas y la zanahoria
+2. en cuadraditos y cocinarlas en agua
+3. junto con el choclo desgranado
+2. Pelar las arvejas frescas,
+5. picar las vainitas y hervirlas
+3. Licuar la albahaca,
+7. la espinaca y los dientes de ajo.
+8. Agregar el aceite vegetal poco a poco
+9. hasta que quede una salsa espesa
+4. Mezclar las verduras cocidas
+11. con las aceitunas verdes
+12. y la salsa verde
+13. 3
+14. 2
+15. 2
+16. 2
+17. 4
+18. atados de albahaca
+19. atados de espinaca
+20. dientes de ajo
+21. cucharadas de aceite vegetal
+22. aceitunas verdes
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 6.2 mg
+Fe
+Entradas / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Ensalada verde
+(4 porciones)
+Ingredientes
+2
+1
+1
+1
+1
+papas
+zanahoria
+choclo
+taza de arvejas frescas peladas
+taza de vainitas picadas
+Preparación
+1. Cortar las papas y la zanahoria
+en cuadraditos y cocinarlas en agua
+junto con el choclo desgranado
+2. Pelar las arvejas frescas,
+picar las vainitas y hervirlas
+3. Licuar la albahaca,
+la espinaca y los dientes de ajo.
+Agregar el aceite vegetal poco a poco
+hasta que quede una salsa espesa
+4. Mezclar las verduras cocidas
+con las aceitunas verdes
+y la salsa verde
+3
+2
+2
+2
+4
+atados de albahaca
+atados de espinaca
+dientes de ajo
+cucharadas de aceite vegetal
+aceitunas verdes
+EL TIP
+4
+Las papas blancas tienen
+una textura perfecta para las
+ensaladas. No obstante, se puede
+utilizar cualquier variedad.
+Una porción contiene:
+Hierro: 6.2 mg
+Fe
+Entradas / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, ensalada, verde, papas, zanahoria, choclo, arvejas, frescas, peladas, vainitas, picadas
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_003
+NOMBRE: MOLLEJAS DE POLLO EMPANIZADAS CON ZARZA DE COLIFLOR
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: pollo
+
+INGREDIENTES_CLAVE:
+pollo, empanizadas, zarza, coliflor, yuca, mediana, cebolla, tomates, atado, culantro
+
+INGREDIENTES:
+- 1/2
+- 1
+- 1
+- 2
+- 1/4
+- 1/2
+- 4
+- 2
+- kg de yuca
+- coliflor mediana
+- cebolla
+- tomates
+- de atado de culantro
+- cucharadita de orégano seco
+- limones
+- cucharadas de aceite de oliva
+- 10
+- 1/2
+- 1/2
+- 1
+- 1
+- 3
+- 1
+- 5
+- mollejas de pollo
+- cucharadita de mostaza
+- cucharadita de ajo molido
+- taza de aceite vegetal
+- taza de harina de trigo fortificada con hierro
+- huevos
+- taza de pan rallado
+- Sal y pimienta a gusto
+
+PREPARACION:
+1. Cortar la coliflor en trozos medianos,
+2. agregar sal y cocinar unos 5 minutos.
+3. Luego, llevar a un recipiente con agua
+4. helada por 1 minuto. Escurrir y reservar
+2. Cortar la cebolla en tiras delgadas. Lavar,
+6. escurrir y reservar. Picar los tomates en tiras
+7. delgadas y, por otro lado, el culantro
+3. En un recipiente mezclar la cebolla, el
+9. tomate y el orégano. Sazonar con sal, pimienta,
+10. jugo de limón y aceite de oliva. Reservar
+4. Lavar y hervir las mollejas.
+12. Condimentarlas con ajo molido, mostaza,
+13. pimienta y sal a gusto. Dejar reposar
+5. Pasar las mollejas por harina, huevo
+15. y pan rallado. Cocinar en fritura profunda
+16. por unos 3 o 4 minutos, procurar
+17. que queden doradas. Retirar y escurrir
+18. sobre papel absorbente
+6. Servir las mollejas crocantes
+20. con yuca y la zarza de coliflor
+21. Una porción contiene:
+22. Hierro: 9.9 mg
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 9.9 mg
+EL TIP
+La fritura profunda es aquella en la
+que el alimento queda totalmente
+sumergido en aceite vegetal (permite
+una cocción menos grasosa).
+Fe
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Mollejas de pollo empanizadas
+con zarza de coliflor
+(4 porciones)
+Ingredientes
+1/2
+1
+1
+2
+1/4
+1/2
+4
+2
+kg de yuca
+coliflor mediana
+cebolla
+tomates
+de atado de culantro
+cucharadita de orégano seco
+limones
+cucharadas de aceite de oliva
+10
+1/2
+1/2
+1
+1
+3
+1
+5
+mollejas de pollo
+cucharadita de mostaza
+cucharadita de ajo molido
+taza de aceite vegetal
+taza de harina de trigo fortificada con hierro
+huevos
+taza de pan rallado
+Sal y pimienta a gusto
+Preparación
+1. Cortar la coliflor en trozos medianos,
+agregar sal y cocinar unos 5 minutos.
+Luego, llevar a un recipiente con agua
+helada por 1 minuto. Escurrir y reservar
+2. Cortar la cebolla en tiras delgadas. Lavar,
+escurrir y reservar. Picar los tomates en tiras
+delgadas y, por otro lado, el culantro
+3. En un recipiente mezclar la cebolla, el
+tomate y el orégano. Sazonar con sal, pimienta,
+jugo de limón y aceite de oliva. Reservar
+4. Lavar y hervir las mollejas.
+Condimentarlas con ajo molido, mostaza,
+pimienta y sal a gusto. Dejar reposar
+5. Pasar las mollejas por harina, huevo
+y pan rallado. Cocinar en fritura profunda
+por unos 3 o 4 minutos, procurar
+que queden doradas. Retirar y escurrir
+sobre papel absorbente
+6. Servir las mollejas crocantes
+con yuca y la zarza de coliflor
+Una porción contiene:
+Hierro: 9.9 mg
+EL TIP
+La fritura profunda es aquella en la
+que el alimento queda totalmente
+sumergido en aceite vegetal (permite
+una cocción menos grasosa).
+Fe
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, mollejas, pollo, empanizadas, zarza, coliflor, yuca, mediana, cebolla, tomates, atado, culantro, oregano, seco, limones, aceite, oliva
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_004
+NOMBRE: PAN CON TORREJITA DE SANGRECITA (1 PORCIÓN)
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: No especificado
+INGREDIENTE_PRINCIPAL: torrejita
+
+INGREDIENTES_CLAVE:
+torrejita, sangrecita, porcion, harina, pollo, zanahoria, picada, cuadraditos, tronco, brocoli
+
+INGREDIENTES:
+- 1
+- 2
+- 3
+- 1
+- pan
+- cucharadas de harina
+- cucharadas de sangrecita de pollo
+- cucharada de zanahoria picada
+- en cuadraditos
+- tronco de brócoli
+- rodaja de tomate
+- huevo
+- cucharadita de aceite vegetal
+- Sal a gusto
+- EL TIP
+- 6
+- Puede completar la lonchera con jugo
+- natural de naranja y una fruta.
+- 1/2
+- 1
+- 1/2
+- 1
+
+PREPARACION:
+1. Mezclar en un recipiente
+2. la zanahoria, el brócoli, el
+3. tomate y la harina. Incorporar
+4. la sangrecita de pollo
+2. Batir ligeramente el huevo
+6. e incorporar a la preparación
+7. anterior. Agregar sal a gusto
+8. y unificar
+3. Formar la torreja, freír
+10. en aceite y, luego, armar
+11. el sánguche
+12. Una porción contiene:
+13. Fe
+14. Hierro: 1.0 mg
+15. Loncheras / Edición especial para prevenir y combatir la anemia
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Fe
+Hierro: 1.0 mg
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Pan con torrejita de sangrecita
+(1 porción)
+Ingredientes
+1
+2
+3
+1
+pan
+cucharadas de harina
+cucharadas de sangrecita de pollo
+cucharada de zanahoria picada
+en cuadraditos
+tronco de brócoli
+rodaja de tomate
+huevo
+cucharadita de aceite vegetal
+Sal a gusto
+EL TIP
+6
+Puede completar la lonchera con jugo
+natural de naranja y una fruta.
+1/2
+1
+1/2
+1
+Preparación
+1. Mezclar en un recipiente
+la zanahoria, el brócoli, el
+tomate y la harina. Incorporar
+la sangrecita de pollo
+2. Batir ligeramente el huevo
+e incorporar a la preparación
+anterior. Agregar sal a gusto
+y unificar
+3. Formar la torreja, freír
+en aceite y, luego, armar
+el sánguche
+Una porción contiene:
+Fe
+Hierro: 1.0 mg
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, pan, torrejita, sangrecita, porcion, harina, pollo, zanahoria, picada, cuadraditos, tronco, brocoli, rodaja, tomate, huevo, aceite, vegetal
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_005
+NOMBRE: CHAUFA DE QUINUA CON HÍGADO DE POLLO (1 PORCIÓN)
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: No especificado
+INGREDIENTE_PRINCIPAL: quinua
+
+INGREDIENTES_CLAVE:
+quinua, higado, pollo, porcion, punados, aceite, vegetal, sancochado, picado, huevo
+
+INGREDIENTES:
+- 2
+- 1/2
+- 1
+- 1/4
+- 1
+- puñados de quinua
+- cucharadita de aceite vegetal
+- hígado de pollo sancochado y picado
+- de huevo
+- ramita de cebolla china
+- Sal a gusto
+- EL TIP
+- 7
+- Puede complementar esta lonchera
+- con limonada y una mandarina para
+- potenciar la absorción del hierro.
+
+PREPARACION:
+1. Sancochar la quinua,
+2. previamente lavada
+3. varias veces
+2. Batir el huevo,
+5. agregar sal y freír
+3. En otra sartén
+7. freír la cebolla china
+8. picada. Agregar la
+9. quinua sancochada,
+10. el hígado de pollo
+11. picado, la tortilla de
+12. huevo picada y la sal
+13. Una porción contiene:
+14. Hierro: 6.9 mg
+15. Fe
+16. Loncheras / Edición especial para prevenir y combatir la anemia
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 6.9 mg
+Fe
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Chaufa de quinua con hígado de pollo
+(1 porción)
+Ingredientes
+2
+1/2
+1
+1/4
+1
+puñados de quinua
+cucharadita de aceite vegetal
+hígado de pollo sancochado y picado
+de huevo
+ramita de cebolla china
+Sal a gusto
+EL TIP
+7
+Puede complementar esta lonchera
+con limonada y una mandarina para
+potenciar la absorción del hierro.
+Preparación
+1. Sancochar la quinua,
+previamente lavada
+varias veces
+2. Batir el huevo,
+agregar sal y freír
+3. En otra sartén
+freír la cebolla china
+picada. Agregar la
+quinua sancochada,
+el hígado de pollo
+picado, la tortilla de
+huevo picada y la sal
+Una porción contiene:
+Hierro: 6.9 mg
+Fe
+Loncheras / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, chaufa, quinua, higado, pollo, porcion, punados, aceite, vegetal, sancochado, picado, huevo, ramita, cebolla, china, tip, puede
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_006
+NOMBRE: PAN CON HAMBURGUESA DE PESCADO (1 PORCIÓN)
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: No especificado
+INGREDIENTE_PRINCIPAL: hamburguesa
+
+INGREDIENTES_CLAVE:
+hamburguesa, pescado, porcion, huevo, atun, conserva, aceite, vegetal, tip, esta
+
+INGREDIENTES:
+- 1
+- 1/2
+- 2
+- pan
+- huevo
+- cucharadas de atún en conserva
+- Sal a gusto
+- Aceite vegetal
+- EL TIP
+- Esta hamburguesa puede
+- complementarse con un vaso
+- de chicha morada y una manzana
+- para una lonchera nutritiva.
+
+PREPARACION:
+1. 8
+1. Batir el huevo, mezclar
+3. con el atún y sal a gusto
+2. Armar la hamburguesa y freír
+5. por ambos lados. Preparar el
+6. sánguche
+7. Una porción contiene:
+8. Fe
+9. Hierro: 5.9 mg
+10. Sopas / Edición especial para prevenir y combatir la anemia
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Fe
+Hierro: 5.9 mg
+Sopas / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Pan con hamburguesa de pescado
+(1 porción)
+Ingredientes
+1
+1/2
+2
+pan
+huevo
+cucharadas de atún en conserva
+Sal a gusto
+Aceite vegetal
+EL TIP
+Esta hamburguesa puede
+complementarse con un vaso
+de chicha morada y una manzana
+para una lonchera nutritiva.
+Preparación
+8
+1. Batir el huevo, mezclar
+con el atún y sal a gusto
+2. Armar la hamburguesa y freír
+por ambos lados. Preparar el
+sánguche
+Una porción contiene:
+Fe
+Hierro: 5.9 mg
+Sopas / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, pan, hamburguesa, pescado, porcion, huevo, atun, conserva, aceite, vegetal, tip, esta, puede, complementarse, vaso, chicha, morada
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_007
+NOMBRE: SOPA MENESTRÓN
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: menestron
+
+INGREDIENTES_CLAVE:
+menestron, carne, punta, pecho, yuca, papa, fideos, canuto, grueso, arvejas
+
+INGREDIENTES:
+- 1/2
+- 1/4
+- 1/4
+- 80
+- 20
+- 20
+- 20
+- 20
+- 1
+- 2
+- kg carne punta de pecho
+- kg yuca
+- kg papa
+- g de fideos canuto grueso
+- g de arvejas
+- g de pallar
+- g de garbanzo
+- g de frejol panamito
+- diente de ajo
+- cucharadas de aceite vegetal
+
+PREPARACION:
+1. En una olla con aceite
+2. dorar el ajo. Agregar el
+3. agua e incorporar el poro, el
+4. apio, el nabo, la zanahoria,
+5. el zapallo, la papa y la yuca
+6. cortados en trozos; el choclo
+7. partido en cuatro, el frejol,
+8. los pallares, los garbanzos,
+9. las arvejas y la carne.
+10. Condimentar con pimienta
+11. y sal. Dejar hervir hasta que
+12. los ingredientes se cocinen
+13. de manera uniforme. Una
+14. vez conseguido, incorporar
+15. los fideos
+2. Aparte, licuar la espinaca,
+17. la albahaca y el queso
+18. fresco. Luego, incorporar
+19. a la olla. Cuando rompa el
+20. hervor, el menestrón estará
+21. listo para servir.
+22. 1
+23. 1
+24. 1
+25. 1/4
+26. 1
+27. 1
+28. 1/2
+29. 1/2
+30. 60
+31. apio
+32. nabo
+33. poro
+34. zapallo
+35. zanahoria
+36. choclo
+37. taza de albahaca molida
+38. taza de espinaca molida
+39. g de queso fresco
+40. Sal y pimienta a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.6 mg
+Fe
+Sopas / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Sopa menestrón
+(4 porciones)
+Ingredientes
+1/2
+1/4
+1/4
+80
+20
+20
+20
+20
+1
+2
+kg carne punta de pecho
+kg yuca
+kg papa
+g de fideos canuto grueso
+g de arvejas
+g de pallar
+g de garbanzo
+g de frejol panamito
+diente de ajo
+cucharadas de aceite vegetal
+Preparación
+1. En una olla con aceite
+dorar el ajo. Agregar el
+agua e incorporar el poro, el
+apio, el nabo, la zanahoria,
+el zapallo, la papa y la yuca
+cortados en trozos; el choclo
+partido en cuatro, el frejol,
+los pallares, los garbanzos,
+las arvejas y la carne.
+Condimentar con pimienta
+y sal. Dejar hervir hasta que
+los ingredientes se cocinen
+de manera uniforme. Una
+vez conseguido, incorporar
+los fideos
+2. Aparte, licuar la espinaca,
+la albahaca y el queso
+fresco. Luego, incorporar
+a la olla. Cuando rompa el
+hervor, el menestrón estará
+listo para servir.
+1
+1
+1
+1/4
+1
+1
+1/2
+1/2
+60
+apio
+nabo
+poro
+zapallo
+zanahoria
+choclo
+taza de albahaca molida
+taza de espinaca molida
+g de queso fresco
+Sal y pimienta a gusto
+EL TIP
+9
+Puede reemplazar el frejol panamito por el
+verde o el frejol de palo, que se encuentran
+en mercados y supermercados.
+Una porción contiene:
+Hierro: 4.6 mg
+Fe
+Sopas / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, sopa, menestron, carne, punta, pecho, yuca, papa, fideos, canuto, grueso, arvejas, pallar, garbanzo, frejol, panamito, diente
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_008
+NOMBRE: PARIHUELA DE BONITO Y MARISCOS
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: bonito
+
+INGREDIENTES_CLAVE:
+bonito, mariscos, cebolla, tomate, dientes, ajo, aji, colorado, amarillo, aceite
+
+INGREDIENTES:
+- 1
+- 1
+- 2
+- 1
+- 1
+- 2
+- 4
+- 1
+- cebolla
+- tomate
+- dientes de ajo
+- cucharada de ají colorado
+- cucharada de ají amarillo
+- cucharadas de aceite vegetal
+- choros
+- cangrejo
+
+PREPARACION:
+1. Lavar bien el cangrejo
+2. Limpiar los choros, las
+3. almejas, los langostinos
+4. y las conchas de abanico.
+5. Hervir hasta que se abran,
+6. retirar y reservar.
+3. Picar la cebolla,
+8. el tomate, el kion y los
+9. dientes de ajo. Freír en
+10. aceite vegetal e incorporar
+11. el ají amarillo y el ají
+12. colorado. Condimentar con
+13. sal y pimienta. Agregar
+14. el agua, el pescado y el
+15. cangrejo. Hervir. Antes
+16. de apagar, agregar los
+17. mariscos, el chuño diluido
+18. y el zumo de limón
+4. Servir la parihuela
+20. decorada con yuyo,
+21. una rodaja de rocoto
+22. y culantro picado
+23. 4
+24. 4
+25. 4
+26. 1/2
+27. 1
+28. 100
+29. 1
+30. langostinos
+31. conchas de abanico
+32. almejas
+33. kg de bonito
+34. cucharada de chuño
+35. g de yuyo
+36. limón
+37. Kion, pimienta, rocoto y sal
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.5 mg
+10
+Fe
+Sopas / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Parihuela de bonito y mariscos
+(4 porciones)
+Ingredientes
+1
+1
+2
+1
+1
+2
+4
+1
+cebolla
+tomate
+dientes de ajo
+cucharada de ají colorado
+cucharada de ají amarillo
+cucharadas de aceite vegetal
+choros
+cangrejo
+Preparación
+1. Lavar bien el cangrejo
+2. Limpiar los choros, las
+almejas, los langostinos
+y las conchas de abanico.
+Hervir hasta que se abran,
+retirar y reservar.
+3. Picar la cebolla,
+el tomate, el kion y los
+dientes de ajo. Freír en
+aceite vegetal e incorporar
+el ají amarillo y el ají
+colorado. Condimentar con
+sal y pimienta. Agregar
+el agua, el pescado y el
+cangrejo. Hervir. Antes
+de apagar, agregar los
+mariscos, el chuño diluido
+y el zumo de limón
+4. Servir la parihuela
+decorada con yuyo,
+una rodaja de rocoto
+y culantro picado
+4
+4
+4
+1/2
+1
+100
+1
+langostinos
+conchas de abanico
+almejas
+kg de bonito
+cucharada de chuño
+g de yuyo
+limón
+Kion, pimienta, rocoto y sal
+EL TIP
+Para potenciar la absorción del
+hierro, se recomienda tomar bebidas
+ricas en vitamina C.
+Una porción contiene:
+Hierro: 4.5 mg
+10
+Fe
+Sopas / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, parihuela, bonito, mariscos, cebolla, tomate, dientes, ajo, aji, colorado, amarillo, aceite, vegetal, choros, cangrejo
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_009
+NOMBRE: AGUADITO CON MOLLEJAS DE POLLO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: mollejas
+
+INGREDIENTES_CLAVE:
+mollejas, pollo, cebolla, diente, ajo, aji, amarillo, culantro, molido, arvejas
+
+INGREDIENTES:
+- 1/2
+- 1
+- 1
+- 1
+- 1/2
+- 1/2
+- kg de mollejas de pollo
+- cebolla
+- diente de ajo
+- cucharada de ají amarillo
+- taza de culantro molido
+- taza de arvejas frescas peladas
+
+PREPARACION:
+1. Lavar las mollejas
+2. de pollo
+2. Preparar un aderezo con
+4. cebolla picada finamente,
+5. ajo y ají amarillo.
+6. Condimentar con pimienta
+7. y comino, agregar las
+8. mollejas de pollo y sal.
+9. Soasar y, luego, cubrir con
+10. agua. Dejar en cocción
+11. hasta que rompa el hervor.
+3. Añadir el arroz, las
+13. arvejas, el choclo, la
+14. zanahoria, las papas
+15. amarillas y el culantro
+16. licuado. Cocinar a fuego
+17. medio
+4. Unos minutos antes
+19. de apagar, incorporar el
+20. pimiento cortado en
+21. tiras gruesas. Una vez
+22. cocido, servir
+23. 1/2
+24. 1
+25. 4
+26. 1
+27. 1
+28. taza de arroz
+29. pimiento
+30. papas amarillas medianas
+31. choclo
+32. zanahoria
+33. Pimienta, comino y sal a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 7.0 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Aguadito con mollejas de pollo
+(4 porciones)
+Ingredientes
+1/2
+1
+1
+1
+1/2
+1/2
+kg de mollejas de pollo
+cebolla
+diente de ajo
+cucharada de ají amarillo
+taza de culantro molido
+taza de arvejas frescas peladas
+Preparación
+1. Lavar las mollejas
+de pollo
+2. Preparar un aderezo con
+cebolla picada finamente,
+ajo y ají amarillo.
+Condimentar con pimienta
+y comino, agregar las
+mollejas de pollo y sal.
+Soasar y, luego, cubrir con
+agua. Dejar en cocción
+hasta que rompa el hervor.
+3. Añadir el arroz, las
+arvejas, el choclo, la
+zanahoria, las papas
+amarillas y el culantro
+licuado. Cocinar a fuego
+medio
+4. Unos minutos antes
+de apagar, incorporar el
+pimiento cortado en
+tiras gruesas. Una vez
+cocido, servir
+1/2
+1
+4
+1
+1
+taza de arroz
+pimiento
+papas amarillas medianas
+choclo
+zanahoria
+Pimienta, comino y sal a gusto
+EL TIP
+11
+Puede reemplazar las mollejas por
+hígados o corazoncitos de pollo.
+Una porción contiene:
+Hierro: 7.0 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, aguadito, mollejas, pollo, cebolla, diente, ajo, aji, amarillo, culantro, molido, arvejas, frescas, peladas
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_010
+NOMBRE: GUISO DE CARNE Y VERDURAS
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: carne
+
+INGREDIENTES_CLAVE:
+carne, verduras, arroz, papa, blanca, huevo, vainitas, coliflor, zanahoria, tomate
+
+INGREDIENTES:
+- 11/2
+- 1/2
+- 1/2
+- 1
+- 1/2
+- 1/2
+- 1
+- 1
+- taza de arroz
+- kg de papa blanca
+- kg de carne para guiso
+- huevo
+- taza de vainitas
+- taza de coliflor
+- zanahoria
+- tomate
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Lavar, pelar, picar y freír las papas
+3. Picar la cebolla en cuadraditos
+4. pequeños. Llevar a una olla y dorar en
+5. aceite vegetal con el ají colorado, el ají
+6. amarillo, el culantro y el ajo molido.
+7. Luego, agregar la carne (previamente
+8. picada), pimienta, comino y sal. Mezclar
+9. estos ingredientes con el aderezo
+4. Incorporar a la preparación anterior
+11. las verduras picadas (vainitas, coliflor,
+12. zanahoria, tomate, cebolla, pimiento).
+13. Continuar la cocción de
+14. 3 a 5 minutos más. Agregar
+15. el huevo y mezclar
+5. Servir esta preparación
+17. con las papas fritas
+18. y el arroz graneado. Decorar
+19. con perejil picado
+20. 1
+21. 1
+22. 2
+23. 1
+24. 1
+25. 1
+26. 1/2
+27. cebolla
+28. pimiento
+29. cucharaditas de ajo molido
+30. cucharada de ají colorado molido
+31. cucharada de ají amarillo molido
+32. cucharada de culantro molido
+33. taza de aceite vegetal
+34. Sal, pimienta, comino y perejil a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 7.0 mg
+12
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Guiso de carne y verduras
+(4 porciones)
+Ingredientes
+11/2
+1/2
+1/2
+1
+1/2
+1/2
+1
+1
+taza de arroz
+kg de papa blanca
+kg de carne para guiso
+huevo
+taza de vainitas
+taza de coliflor
+zanahoria
+tomate
+Preparación
+1. Preparar el arroz graneado
+2. Lavar, pelar, picar y freír las papas
+3. Picar la cebolla en cuadraditos
+pequeños. Llevar a una olla y dorar en
+aceite vegetal con el ají colorado, el ají
+amarillo, el culantro y el ajo molido.
+Luego, agregar la carne (previamente
+picada), pimienta, comino y sal. Mezclar
+estos ingredientes con el aderezo
+4. Incorporar a la preparación anterior
+las verduras picadas (vainitas, coliflor,
+zanahoria, tomate, cebolla, pimiento).
+Continuar la cocción de
+3 a 5 minutos más. Agregar
+el huevo y mezclar
+5. Servir esta preparación
+con las papas fritas
+y el arroz graneado. Decorar
+con perejil picado
+1
+1
+2
+1
+1
+1
+1/2
+cebolla
+pimiento
+cucharaditas de ajo molido
+cucharada de ají colorado molido
+cucharada de ají amarillo molido
+cucharada de culantro molido
+taza de aceite vegetal
+Sal, pimienta, comino y perejil a gusto
+EL TIP
+No cocinar mucho las verduras para
+que no pierdan nutrientes. Deben
+quedar de color vibrante y crujientes.
+Una porción contiene:
+Hierro: 7.0 mg
+12
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, guiso, carne, verduras, arroz, papa, blanca, huevo, vainitas, coliflor, zanahoria, tomate
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_011
+NOMBRE: FREJOL MORENO CON RELLENO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: moreno
+
+INGREDIENTES_CLAVE:
+moreno, relleno, morcilla, arroz, leche, evaporada, aceite, vegetal, tomate, aji
+
+INGREDIENTES:
+- 1/4
+- 11/2
+- 1/4
+- 1/4
+- 1/3
+- 1
+- kg de relleno (morcilla)
+- tazas de arroz
+- kg de frejol
+- taza de leche evaporada
+- taza de aceite vegetal
+- tomate
+- 1
+- 1
+- 1
+- 4
+- 1
+- 13
+- cucharada de ají colorado
+- cebolla
+- cucharadita de ajo
+- rabanitos
+- limón
+- Sal, pimienta, orégano y comino a gusto
+
+PREPARACION:
+1. Remojar los frejoles desde
+2. la noche anterior
+2. Preparar el arroz graneado
+3. Freír el relleno (morcilla)
+4. Preparar la ensalada de
+6. rabanitos con limón y sal
+5. En una olla, dorar en aceite
+8. vegetal la cebolla picada en
+9. cuadritos, el ajo, el ají colorado
+10. molido, y el tomate pelado y
+11. picado. Incorporar los frejoles
+12. ya cocidos, la pimienta, el
+13. comino y la sal. Hervir a fuego
+14. lento y mover constantemente
+6. Una vez cocido, retirar los
+16. frejoles del fuego. Agregar
+17. la leche y el orégano. Servir
+18. acompañado de relleno, el
+19. arroz graneado y la ensalada
+20. de rabanitos.
+21. Una porción contiene:
+22. Hierro: 13.5 mg
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 13.5 mg
+EL TIP
+Al sancochar los frejoles agregue
+anís y hierbabuena al agua.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Frejol moreno con relleno
+(4 porciones)
+Ingredientes
+1/4
+11/2
+1/4
+1/4
+1/3
+1
+kg de relleno (morcilla)
+tazas de arroz
+kg de frejol
+taza de leche evaporada
+taza de aceite vegetal
+tomate
+1
+1
+1
+4
+1
+13
+cucharada de ají colorado
+cebolla
+cucharadita de ajo
+rabanitos
+limón
+Sal, pimienta, orégano y comino a gusto
+Preparación
+1. Remojar los frejoles desde
+la noche anterior
+2. Preparar el arroz graneado
+3. Freír el relleno (morcilla)
+4. Preparar la ensalada de
+rabanitos con limón y sal
+5. En una olla, dorar en aceite
+vegetal la cebolla picada en
+cuadritos, el ajo, el ají colorado
+molido, y el tomate pelado y
+picado. Incorporar los frejoles
+ya cocidos, la pimienta, el
+comino y la sal. Hervir a fuego
+lento y mover constantemente
+6. Una vez cocido, retirar los
+frejoles del fuego. Agregar
+la leche y el orégano. Servir
+acompañado de relleno, el
+arroz graneado y la ensalada
+de rabanitos.
+Una porción contiene:
+Hierro: 13.5 mg
+EL TIP
+Al sancochar los frejoles agregue
+anís y hierbabuena al agua.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, frejol, moreno, relleno, morcilla, arroz, leche, evaporada, aceite, vegetal, tomate, aji, colorado, cebolla
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_012
+NOMBRE: CHAUFA DE SANGRECITA
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: sangrecita
+
+INGREDIENTES_CLAVE:
+sangrecita, arroz, aceite, vegetal, huevos, sancochada, cabezas, cebolla, china, pimienta
+
+INGREDIENTES:
+- 13/4
+- 4
+- 2
+- 10
+- 4
+- tazas de arroz
+- cucharadas de aceite vegetal
+- huevos
+- cucharadas de sangrecita sancochada
+- cabezas de cebolla china
+- Sal y pimienta a gusto
+- EL TIP
+- 14
+- Se recomienda hacer el saltado del
+- chaufa en un wok para obtener el
+- sabor ahumado.
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Batir los huevos con sal
+3. y pimienta. Freír en aceite
+4. vegetal y picar en cubos
+5. pequeños
+3. Freír en una sartén la
+7. sangrecita sancochada picada.
+8. Agregar el arroz, la cebolla
+9. china y los huevos
+10. Una porción contiene:
+11. Hierro: 5.1 mg
+12. Fe
+13. Segundos / Edición especial para prevenir y combatir la anemia
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 5.1 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Chaufa de sangrecita
+(4 porciones)
+Ingredientes
+13/4
+4
+2
+10
+4
+tazas de arroz
+cucharadas de aceite vegetal
+huevos
+cucharadas de sangrecita sancochada
+cabezas de cebolla china
+Sal y pimienta a gusto
+EL TIP
+14
+Se recomienda hacer el saltado del
+chaufa en un wok para obtener el
+sabor ahumado.
+Preparación
+1. Preparar el arroz graneado
+2. Batir los huevos con sal
+y pimienta. Freír en aceite
+vegetal y picar en cubos
+pequeños
+3. Freír en una sartén la
+sangrecita sancochada picada.
+Agregar el arroz, la cebolla
+china y los huevos
+Una porción contiene:
+Hierro: 5.1 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, chaufa, sangrecita, arroz, aceite, vegetal, huevos, sancochada, cabezas, cebolla, china, pimienta, tip, recomienda, hacer, saltado, wok
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_013
+NOMBRE: AJÍ DE JUREL
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: jurel
+
+INGREDIENTES_CLAVE:
+jurel, arroz, cebolla, dientes, ajo, ajies, amarillos, latas, rodajas, pan
+
+INGREDIENTES:
+- 11/2
+- 1
+- 2
+- 4
+- 2
+- 4
+- 1
+- taza de arroz
+- cebolla
+- dientes de ajo
+- ajíes amarillos
+- latas de jurel
+- rodajas de pan de molde
+- tarro de leche evaporada
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Desmenuzar el pan y remojarlo
+3. en la leche evaporada. Pasar la
+4. mezcla por la licuadora y reservar
+3. Freír en el aceite vegetal la
+6. cebolla, el ajo y los ajíes amarillos
+7. hasta dorar. Añadir caldo de
+8. pescado, el pan remojado y el
+9. jurel enlatado. Condimentar con
+10. sal, pimienta y nueces picadas.
+11. Hervir a fuego lento, moviéndolo
+12. constantemente.
+4. Servir el ají de pescado con
+14. papa amarilla y arroz.
+15. Decorar con
+16. aceitunas,
+17. mitades de huevo
+18. duro y lechuga
+19. 4
+20. 1/2
+21. 2
+22. 4
+23. 2
+24. hojas de lechuga
+25. kg de papa
+26. huevos
+27. aceitunas
+28. cucharadas de aceite vegetal
+29. Caldo de pescado
+30. Sal, pimienta y nueces picadas a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 3.8 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Ají de jurel
+(4 porciones)
+Ingredientes
+11/2
+1
+2
+4
+2
+4
+1
+taza de arroz
+cebolla
+dientes de ajo
+ajíes amarillos
+latas de jurel
+rodajas de pan de molde
+tarro de leche evaporada
+Preparación
+1. Preparar el arroz graneado
+2. Desmenuzar el pan y remojarlo
+en la leche evaporada. Pasar la
+mezcla por la licuadora y reservar
+3. Freír en el aceite vegetal la
+cebolla, el ajo y los ajíes amarillos
+hasta dorar. Añadir caldo de
+pescado, el pan remojado y el
+jurel enlatado. Condimentar con
+sal, pimienta y nueces picadas.
+Hervir a fuego lento, moviéndolo
+constantemente.
+4. Servir el ají de pescado con
+papa amarilla y arroz.
+Decorar con
+aceitunas,
+mitades de huevo
+duro y lechuga
+4
+1/2
+2
+4
+2
+hojas de lechuga
+kg de papa
+huevos
+aceitunas
+cucharadas de aceite vegetal
+Caldo de pescado
+Sal, pimienta y nueces picadas a gusto
+EL TIP
+15
+Trate de usar un pan de molde blandito,
+con miga que absorba bien la leche.
+Una porción contiene:
+Hierro: 3.8 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, aji, jurel, arroz, cebolla, dientes, ajo, ajies, amarillos, latas, rodajas, pan, molde, tarro, leche, evaporada
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_014
+NOMBRE: CHANFAINITA
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: bofe
+
+INGREDIENTES_CLAVE:
+bofe, papa, blanca, arroz, leche, evaporada, cebolla, maiz, mote, aceite
+
+INGREDIENTES:
+- 1/2
+- 1/2
+- 11/2
+- 3
+- 1
+- kg de bofe
+- kg de papa blanca
+- taza de arroz
+- cucharadas de leche evaporada
+- cebolla
+- 1
+- 1/4
+- 2
+- 1
+- 16
+- taza de maíz mote
+- taza de aceite vegetal
+- dientes de ajos
+- cucharada de ají colorado
+- Hierbabuena, comino, pimienta y sal a gusto
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Sancochar el bofe. Agregar
+3. 3 cucharadas de leche
+4. evaporada y una ramita de
+5. hierbabuena. Una vez cocido,
+6. cortar el bofe en cuadraditos
+7. pequeños
+3. Picar la cebolla y el ajo.
+9. Dorar en aceite vegetal con
+10. el ají colorado. Sazonar con
+11. pimienta, comino y sal
+4. Añadir el bofe y las papas
+13. cortadas en cuadraditos
+14. pequeños. Cocinar. Finalmente,
+15. agregar el mote sancochado.
+16. Mezclar y dejar reposar
+5. Servir la chanfainita
+18. con arroz graneado
+19. Una porción contiene:
+20. Hierro: 7.0 mg
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 7.0 mg
+EL TIP
+Trate de limitar el consumo de arroz
+si ya hay otro carbohidrato potente
+en el menú, como ocurre en este
+caso con la papa.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Chanfainita
+(4 porciones)
+Ingredientes
+1/2
+1/2
+11/2
+3
+1
+kg de bofe
+kg de papa blanca
+taza de arroz
+cucharadas de leche evaporada
+cebolla
+1
+1/4
+2
+1
+16
+taza de maíz mote
+taza de aceite vegetal
+dientes de ajos
+cucharada de ají colorado
+Hierbabuena, comino, pimienta y sal a gusto
+Preparación
+1. Preparar el arroz graneado
+2. Sancochar el bofe. Agregar
+3 cucharadas de leche
+evaporada y una ramita de
+hierbabuena. Una vez cocido,
+cortar el bofe en cuadraditos
+pequeños
+3. Picar la cebolla y el ajo.
+Dorar en aceite vegetal con
+el ají colorado. Sazonar con
+pimienta, comino y sal
+4. Añadir el bofe y las papas
+cortadas en cuadraditos
+pequeños. Cocinar. Finalmente,
+agregar el mote sancochado.
+Mezclar y dejar reposar
+5. Servir la chanfainita
+con arroz graneado
+Una porción contiene:
+Hierro: 7.0 mg
+EL TIP
+Trate de limitar el consumo de arroz
+si ya hay otro carbohidrato potente
+en el menú, como ocurre en este
+caso con la papa.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, chanfainita, bofe, papa, blanca, arroz, leche, evaporada, cebolla, maiz, mote, aceite, vegetal, dientes, ajos, aji, colorado
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_015
+NOMBRE: ARVEJAS CON MILANESA DE HÍGADO DE RES Y ENCEBOLLADO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: milanesa
+
+INGREDIENTES_CLAVE:
+milanesa, higado, res, encebollado, partidas, cebollas, dientes, ajo, aceite, vegetal
+
+INGREDIENTES:
+- 1
+- 2
+- 3
+- 1/3
+- 1/4
+- 3
+- 2
+- taza de arvejas partidas
+- cebollas
+- dientes de ajo
+- taza de aceite vegetal
+- kg hígado de res
+- cucharadas de harina de trigo
+- huevos
+- 3
+- 1
+- 1
+- 1
+- 1/2
+- 11/2
+- 17
+- cucharadas de pan rallado
+- tomate
+- cucharada de ají colorado molido
+- cucharada de vinagre tinto
+- cucharadita de orégano seco
+- taza de arroz
+- Sal, pimienta, comino y culantro a gusto
+
+PREPARACION:
+1. Remojar las arvejas partidas desde la
+2. noche anterior
+2. Cocinar las arvejas y reservar. En otra
+4. olla, freír en aceite vegetal la cebolla
+5. picada en cuadraditos, el ají colorado
+6. molido y el ajo picado. Condimentar con
+7. pimienta, comino y sal. Incorporar las
+8. arvejas partidas. Mezclar bien, rectificar
+9. la sazón y reservar
+3. Condimentar los hígados de res
+11. con pimienta, comino y sal. Pasar por
+12. harina, huevo y pan rallado. Freír en
+13. aceite vegetal y reservar
+4. Para el encebollado: cortar cebollas
+15. y el tomate en gajos y picar ajo finamente.
+16. Calentar una sartén con aceite vegetal,
+17. incorporar la cebolla y el tomate.
+18. Agregar el ají colorado, vinagre, orégano,
+19. comino y sal. Antes de servir incorporar,
+20. por último, el culantro picado
+5. Servir las arvejas partidas,
+22. acompañadas con la milanesa de
+23. hígado, arroz y el encebollado
+24. Una porción contiene:
+25. Hierro: 8.0 mg
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 8.0 mg
+EL TIP
+Las hierbas frescas, como el
+culantro, es mejor incorporarlas
+al final de las preparaciones.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Arvejas con milanesa de hígado
+de res y encebollado
+(4 porciones)
+Ingredientes
+1
+2
+3
+1/3
+1/4
+3
+2
+taza de arvejas partidas
+cebollas
+dientes de ajo
+taza de aceite vegetal
+kg hígado de res
+cucharadas de harina de trigo
+huevos
+3
+1
+1
+1
+1/2
+11/2
+17
+cucharadas de pan rallado
+tomate
+cucharada de ají colorado molido
+cucharada de vinagre tinto
+cucharadita de orégano seco
+taza de arroz
+Sal, pimienta, comino y culantro a gusto
+Preparación
+1. Remojar las arvejas partidas desde la
+noche anterior
+2. Cocinar las arvejas y reservar. En otra
+olla, freír en aceite vegetal la cebolla
+picada en cuadraditos, el ají colorado
+molido y el ajo picado. Condimentar con
+pimienta, comino y sal. Incorporar las
+arvejas partidas. Mezclar bien, rectificar
+la sazón y reservar
+3. Condimentar los hígados de res
+con pimienta, comino y sal. Pasar por
+harina, huevo y pan rallado. Freír en
+aceite vegetal y reservar
+4. Para el encebollado: cortar cebollas
+y el tomate en gajos y picar ajo finamente.
+Calentar una sartén con aceite vegetal,
+incorporar la cebolla y el tomate.
+Agregar el ají colorado, vinagre, orégano,
+comino y sal. Antes de servir incorporar,
+por último, el culantro picado
+5. Servir las arvejas partidas,
+acompañadas con la milanesa de
+hígado, arroz y el encebollado
+Una porción contiene:
+Hierro: 8.0 mg
+EL TIP
+Las hierbas frescas, como el
+culantro, es mejor incorporarlas
+al final de las preparaciones.
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, arvejas, milanesa, higado, res, encebollado, partidas, cebollas, dientes, ajo, aceite, vegetal, harina, trigo, huevos
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_016
+NOMBRE: GUISO DE LENTEJAS CON BONITO FRITO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: lentejas
+
+INGREDIENTES_CLAVE:
+lentejas, bonito, frito, arroz, filete, cebollas, tomate, limon
+
+INGREDIENTES:
+- 11/2
+- 1
+- 1/4
+- 2
+- 1
+- 1
+- taza de arroz
+- taza de lentejas
+- de kg de filete de bonito
+- cebollas
+- tomate
+- limón
+
+PREPARACION:
+1. Remojar las lentejas la
+2. noche anterior
+2. Cocinar las lentejas y
+4. reservar. Picar las cebollas
+5. y el ajo. Freírlos en aceite
+6. vegetal con el ají amarillo
+7. molido. Condimentar
+8. con pimienta y comino.
+9. Agregar las lentejas y la
+10. sal. Dar un hervor
+3. Limpiar, lavar y filetear
+12. el bonito. Sazonar con
+13. pimienta, sal y ajo. Luego,
+14. enharinar y freír en
+15. aceite vegetal
+4. Servir las lentejas con
+17. el bonito frito. Acompañar
+18. con el arroz graneado
+19. y ensalada de cebolla,
+20. tomate, lechuga
+21. 6
+22. 2
+23. 1
+24. 1/2
+25. 4
+26. hojas de lechuga
+27. cucharaditas de ajo molido
+28. cucharada de ají amarillo molido
+29. taza de aceite vegetal
+30. cucharadas de harina
+31. Pimienta, comino y sal a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 7.7 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Guiso de lentejas con bonito frito
+(4 porciones)
+Ingredientes
+11/2
+1
+1/4
+2
+1
+1
+taza de arroz
+taza de lentejas
+de kg de filete de bonito
+cebollas
+tomate
+limón
+Preparación
+1. Remojar las lentejas la
+noche anterior
+2. Cocinar las lentejas y
+reservar. Picar las cebollas
+y el ajo. Freírlos en aceite
+vegetal con el ají amarillo
+molido. Condimentar
+con pimienta y comino.
+Agregar las lentejas y la
+sal. Dar un hervor
+3. Limpiar, lavar y filetear
+el bonito. Sazonar con
+pimienta, sal y ajo. Luego,
+enharinar y freír en
+aceite vegetal
+4. Servir las lentejas con
+el bonito frito. Acompañar
+con el arroz graneado
+y ensalada de cebolla,
+tomate, lechuga
+6
+2
+1
+1/2
+4
+hojas de lechuga
+cucharaditas de ajo molido
+cucharada de ají amarillo molido
+taza de aceite vegetal
+cucharadas de harina
+Pimienta, comino y sal a gusto
+EL TIP
+18
+Para elevar el valor nutricional
+de esta receta, puede empanizar
+el pescado con harina de quinua
+u otro cereal.
+Una porción contiene:
+Hierro: 7.7 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, guiso, lentejas, bonito, frito, arroz, filete, cebollas, tomate, limon
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_017
+NOMBRE: PICANTE DE MARISCOS
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: mariscos
+
+INGREDIENTES_CLAVE:
+mariscos, arroz, papa, mixtura, marisco, pota, machas, cara, col, conchas
+
+INGREDIENTES:
+- 11/2
+- 1/2
+- 1/2
+- 1
+- 1
+- 1
+- 1
+- 1
+- taza de arroz
+- kg de papa
+- kg mixtura de marisco (pota, machas, cara
+- col, conchas de abanico, choros, almeja)
+- cebolla
+- zanahoria
+- tomate
+- cucharada de ají colorado
+- cucharada de ají amarillo
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Lavar la mixtura de mariscos
+3. Freír los mariscos en aceite
+4. vegetal durante 30 segundos.
+5. Sacar y reservar
+4. Picar la cebolla y el tomate.
+7. Freírlos en aceite vegetal
+8. con el ajo, el ají colorado,
+9. el ají amarillo y el culantro.
+10. Condimentar con pimienta y
+11. sal, y soasar. Añadir caldo de
+12. pescado, la zanahoria y las
+13. papas picadas en cuadraditos.
+14. Incorporar las arvejas frescas y
+15. el pimiento cortado en juliana.
+16. 3 minutos antes de apagar el
+17. fuego, incorporar la mixtura de
+18. mariscos y el jugo de limón
+5. Servir el picante de mariscos
+20. con el arroz graneado
+21. 1
+22. 2
+23. 1
+24. 1/2
+25. 1
+26. 1
+27. cucharada de culantro
+28. cucharaditas de ajo molido
+29. pimiento
+30. taza de arvejas frescas
+31. cucharada de aceite vegetal
+32. limón
+33. Sal, pimienta y kion a gusto
+34. Caldo de pescado
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.0 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Picante de mariscos
+(4 porciones)
+Ingredientes
+11/2
+1/2
+1/2
+1
+1
+1
+1
+1
+taza de arroz
+kg de papa
+kg mixtura de marisco (pota, machas, cara
+col, conchas de abanico, choros, almeja)
+cebolla
+zanahoria
+tomate
+cucharada de ají colorado
+cucharada de ají amarillo
+Preparación
+1. Preparar el arroz graneado
+2. Lavar la mixtura de mariscos
+3. Freír los mariscos en aceite
+vegetal durante 30 segundos.
+Sacar y reservar
+4. Picar la cebolla y el tomate.
+Freírlos en aceite vegetal
+con el ajo, el ají colorado,
+el ají amarillo y el culantro.
+Condimentar con pimienta y
+sal, y soasar. Añadir caldo de
+pescado, la zanahoria y las
+papas picadas en cuadraditos.
+Incorporar las arvejas frescas y
+el pimiento cortado en juliana.
+3 minutos antes de apagar el
+fuego, incorporar la mixtura de
+mariscos y el jugo de limón
+5. Servir el picante de mariscos
+con el arroz graneado
+1
+2
+1
+1/2
+1
+1
+cucharada de culantro
+cucharaditas de ajo molido
+pimiento
+taza de arvejas frescas
+cucharada de aceite vegetal
+limón
+Sal, pimienta y kion a gusto
+Caldo de pescado
+EL TIP
+19
+El corte en juliana consiste
+en cortar los vegetales o verduras
+en tiras alargadas.
+Una porción contiene:
+Hierro: 4.0 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, picante, mariscos, arroz, papa, mixtura, marisco, pota, machas, cara, col, conchas, abanico, choros, almeja, cebolla, zanahoria
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_018
+NOMBRE: PIMIENTOS RELLENOS CON PESCADO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: rellenos
+
+INGREDIENTES_CLAVE:
+rellenos, pescado, medianos, arroz, bonito, picado, puede, reempla, zarlo, otro
+
+INGREDIENTES:
+- 4
+- 11/2
+- 1/4
+- 4
+- 1
+- 2
+- pimientos medianos
+- taza de arroz
+- kg de bonito picado (puede reempla
+- zarlo por otro de su preferencia)
+- trozos medianos de queso fresco
+- cebolla pequeña
+- huevos
+
+PREPARACION:
+1. 3
+2. 1/2
+3. 1/4
+4. 4
+5. cucharadas de maní tostado
+6. kg de papas
+7. taza de arvejas frescas
+8. cucharadas de aceite vegetal
+9. Ajo molido
+10. Ají colorado molido
+11. Sal, pimienta, perejil, orégano a gusto
+12. Una porción contiene:
+1. Preparar el arroz graneado
+2. Lavar los pimientos. Sacarles las
+15. semillas y cortar la parte superior.
+16. Reservar (servirá de tapa).
+3. En una sartén con aceite vegetal,
+18. freír el ajo, el ají colorado y la cebolla
+19. cortada en cuadraditos pequeños.
+20. Agregar la pimienta, el orégano y la sal.
+21. Dorar. Incorporar el pescado picado,
+22. el queso picado, el maní, los huevos
+23. y las arvejas. Mezclar bien y cocinar
+4. Rellenar los pimientos con la
+25. preparación anterior. Agregar
+26. el perejil y tapar. Colocarlos en
+27. una olla y cocinar a baño maría
+5. Servir los pimientos
+29. rellenos acompañados
+30. de arroz graneado
+31. y papas doradas
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+1. Preparar el arroz graneado
+2. Lavar los pimientos. Sacarles las
+semillas y cortar la parte superior.
+Reservar (servirá de tapa).
+3. En una sartén con aceite vegetal,
+freír el ajo, el ají colorado y la cebolla
+cortada en cuadraditos pequeños.
+Agregar la pimienta, el orégano y la sal.
+Dorar. Incorporar el pescado picado,
+el queso picado, el maní, los huevos
+y las arvejas. Mezclar bien y cocinar
+4. Rellenar los pimientos con la
+preparación anterior. Agregar
+el perejil y tapar. Colocarlos en
+una olla y cocinar a baño maría
+5. Servir los pimientos
+rellenos acompañados
+
+TEXTO_ORIGINAL:
+Pimientos rellenos con pescado
+(4 porciones)
+Ingredientes
+4
+11/2
+1/4
+4
+1
+2
+pimientos medianos
+taza de arroz
+kg de bonito picado (puede reempla
+zarlo por otro de su preferencia)
+trozos medianos de queso fresco
+cebolla pequeña
+huevos
+Preparación
+3
+1/2
+1/4
+4
+cucharadas de maní tostado
+kg de papas
+taza de arvejas frescas
+cucharadas de aceite vegetal
+Ajo molido
+Ají colorado molido
+Sal, pimienta, perejil, orégano a gusto
+Una porción contiene:
+1. Preparar el arroz graneado
+2. Lavar los pimientos. Sacarles las
+semillas y cortar la parte superior.
+Reservar (servirá de tapa).
+3. En una sartén con aceite vegetal,
+freír el ajo, el ají colorado y la cebolla
+cortada en cuadraditos pequeños.
+Agregar la pimienta, el orégano y la sal.
+Dorar. Incorporar el pescado picado,
+el queso picado, el maní, los huevos
+y las arvejas. Mezclar bien y cocinar
+4. Rellenar los pimientos con la
+preparación anterior. Agregar
+el perejil y tapar. Colocarlos en
+una olla y cocinar a baño maría
+5. Servir los pimientos
+rellenos acompañados
+de arroz graneado
+y papas doradas
+EL TIP
+Los alimentos de origen
+animal, como el pescado,
+son recomendables durante
+la etapa de crecimiento.
+Fe
+Hierro: 4.0 mg
+20
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, pimientos, rellenos, pescado, medianos, arroz, bonito, picado, puede, reempla, zarlo, otro, preferencia, trozos, queso, fresco, cebolla
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_019
+NOMBRE: PAPA RELLENA CON SANGRECITA
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: rellena
+
+INGREDIENTES_CLAVE:
+rellena, sangrecita, blanca, arvejas, frescas, cebollas, medianas, huevo, pasas, tomates
+
+INGREDIENTES:
+- 3/4
+- 1/2
+- 1
+- 2
+- 1
+- 2
+- 2
+- kg de papa blanca
+- taza de sangrecita
+- taza de arvejas frescas
+- cebollas medianas
+- huevo
+- cucharadas de pasas
+- tomates medianos
+
+PREPARACION:
+1. Sancochar la sangre y picar
+2. Por otro lado, sancochar la papa.
+3. Prensar y sazonar con sal
+3. Preparar un aderezo con ajo, ají
+5. colorado y cebolla cortada en cuadraditos
+6. pequeños. Agregar la sangre picada,
+7. las arvejas, las pasas, un poco de caldo
+8. y dejar cocinar. Agregar el huevo duro
+9. cortado y continuar la cocción
+4. Enharinar las manos y tomar
+11. un poco de la masa de papa,
+12. extenderla y en el centro colocar
+13. una porción del aderezo.
+14. Cerrar dando forma a la
+15. papa y freír en aceite
+16. vegetal bien caliente.
+5. Servir con ensalada
+18. criolla (cebolla, tomate)
+19. 1
+20. 2
+21. 1/2
+22. limón
+23. cucharadas de harina de trigo
+24. taza de aceite vegetal
+25. Ajo molido
+26. Ají colorado molido
+27. Pimienta, comino y sal a gusto
+28. Caldo de carne
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 11.5 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Papa rellena con sangrecita
+(4 porciones)
+Ingredientes
+3/4
+1/2
+1
+2
+1
+2
+2
+kg de papa blanca
+taza de sangrecita
+taza de arvejas frescas
+cebollas medianas
+huevo
+cucharadas de pasas
+tomates medianos
+Preparación
+1. Sancochar la sangre y picar
+2. Por otro lado, sancochar la papa.
+Prensar y sazonar con sal
+3. Preparar un aderezo con ajo, ají
+colorado y cebolla cortada en cuadraditos
+pequeños. Agregar la sangre picada,
+las arvejas, las pasas, un poco de caldo
+y dejar cocinar. Agregar el huevo duro
+cortado y continuar la cocción
+4. Enharinar las manos y tomar
+un poco de la masa de papa,
+extenderla y en el centro colocar
+una porción del aderezo.
+Cerrar dando forma a la
+papa y freír en aceite
+vegetal bien caliente.
+5. Servir con ensalada
+criolla (cebolla, tomate)
+1
+2
+1/2
+limón
+cucharadas de harina de trigo
+taza de aceite vegetal
+Ajo molido
+Ají colorado molido
+Pimienta, comino y sal a gusto
+Caldo de carne
+EL TIP
+21
+Esta receta reúne vegetales, frutos
+secos y sangrecita. Se recomienda
+servir solo con una ensalada criolla
+o ensalada verde.
+Una porción contiene:
+Hierro: 11.5 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, papa, rellena, sangrecita, blanca, arvejas, frescas, cebollas, medianas, huevo, pasas, tomates, medianos
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_020
+NOMBRE: GUISO DE HABA SECA Y CROQUETAS DE ATÚN CON BRÓCOLI
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: haba
+
+INGREDIENTES_CLAVE:
+haba, seca, croquetas, atun, brocoli, habas, secas, arroz, cebolla, aceite
+
+INGREDIENTES:
+- 1/4
+- 11/2
+- 1
+- 1/2
+- 2
+- 1/2
+- 2
+- kg de habas secas
+- taza de arroz
+- cebolla
+- taza de aceite vegetal
+- latas de atún
+- cucharadita de orégano molido
+- huevos
+
+PREPARACION:
+1. Remojar las habas secas. Cocinar
+2. Preparar el arroz graneado
+3. Freír en aceite vegetal la cebolla
+4. cortada en cuadraditos, con ajo,
+5. ají amarillo molido, orégano y sal.
+6. Mezclar este aderezo con las habas
+7. sancochadas y dejar cocinar unos
+8. minutos más
+4. En un recipiente, colocar la cebolla
+10. picada finamente, el atún, la pimienta,
+11. el culantro picado, el orégano, los
+12. huevos, la avena y el pimiento picado.
+13. Revolver
+5. En una olla con agua hirviendo
+15. colocar el brócoli durante 1 minuto,
+16. aproximadamente. Luego, picar e
+17. incorporar a la mezcla anterior
+6. Cuando esté todo listo,
+19. formar bolitas con la masa,
+20. aplastar y freír.
+7. Servir el guiso de habas
+22. secas acompañado de arroz
+23. y las croquetas de atún
+24. 1/3
+25. 1/2
+26. 1
+27. 2
+28. 1
+29. taza de avena
+30. taza de pimiento picado
+31. taza de brócoli picado
+32. cucharaditas de ajos
+33. cucharada de ají amarillo molido
+34. Sal, pimienta y culantro a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 10.4 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Guiso de haba seca y croquetas
+de atún con brócoli
+(4 porciones)
+Ingredientes
+1/4
+11/2
+1
+1/2
+2
+1/2
+2
+kg de habas secas
+taza de arroz
+cebolla
+taza de aceite vegetal
+latas de atún
+cucharadita de orégano molido
+huevos
+Preparación
+1. Remojar las habas secas. Cocinar
+2. Preparar el arroz graneado
+3. Freír en aceite vegetal la cebolla
+cortada en cuadraditos, con ajo,
+ají amarillo molido, orégano y sal.
+Mezclar este aderezo con las habas
+sancochadas y dejar cocinar unos
+minutos más
+4. En un recipiente, colocar la cebolla
+picada finamente, el atún, la pimienta,
+el culantro picado, el orégano, los
+huevos, la avena y el pimiento picado.
+Revolver
+5. En una olla con agua hirviendo
+colocar el brócoli durante 1 minuto,
+aproximadamente. Luego, picar e
+incorporar a la mezcla anterior
+6. Cuando esté todo listo,
+formar bolitas con la masa,
+aplastar y freír.
+7. Servir el guiso de habas
+secas acompañado de arroz
+y las croquetas de atún
+1/3
+1/2
+1
+2
+1
+taza de avena
+taza de pimiento picado
+taza de brócoli picado
+cucharaditas de ajos
+cucharada de ají amarillo molido
+Sal, pimienta y culantro a gusto
+EL TIP
+22
+Complemente su almuerzo
+y su cena con ensaladas de verduras
+frescas o cocidas.
+Una porción contiene:
+Hierro: 10.4 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, guiso, haba, seca, croquetas, atun, brocoli, habas, secas, arroz, cebolla, aceite, vegetal, latas, oregano, molido, huevos
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_021
+NOMBRE: CAU CAU DE CHOROS
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: choros
+
+INGREDIENTES_CLAVE:
+choros, arroz, cebolla, aceite, vegetal, ajo, molido, palillo, aji, amarillo
+
+INGREDIENTES:
+- 11/2
+- 1
+- 2
+- 2
+- 1/2
+- 2
+- 1
+- taza de arroz
+- cebolla
+- cucharadas de aceite vegetal
+- cucharadas de ajo molido
+- cucharadita de palillo
+- cucharadas de ají amarillo molido
+- cucharada de ají mirasol molido
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Limpiar los choros. Hervir
+3. hasta que se abran, retirar y
+4. remover de su concha. Reservar
+3. Dorar en aceite vegetal la
+6. cebolla picada, el ajo y los ajíes
+7. amarillo y mirasol. Condimentar
+8. con pimienta, palillo y sal.
+9. Agregar el pescado y soasar.
+10. Incorporar la papa picada en
+11. cuadraditos, las arvejas y la
+12. zanahoria picada. Antes de apagar,
+13. agregar los choros, el zumo de
+14. limón y el culantro picado
+4. Servir el cau cau de choros
+16. acompañado de arroz
+17. 24
+18. 1/4
+19. 1/2
+20. 1/2
+21. 1/2
+22. 1
+23. unidades de choros
+24. kg caballa
+25. kg papa blanca
+26. taza de arvejas frescas
+27. taza de zanahoria
+28. limón
+29. Pimienta, sal y culantro a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 5.4 mg
+23
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Cau cau de choros
+(4 porciones)
+Ingredientes
+11/2
+1
+2
+2
+1/2
+2
+1
+taza de arroz
+cebolla
+cucharadas de aceite vegetal
+cucharadas de ajo molido
+cucharadita de palillo
+cucharadas de ají amarillo molido
+cucharada de ají mirasol molido
+Preparación
+1. Preparar el arroz graneado
+2. Limpiar los choros. Hervir
+hasta que se abran, retirar y
+remover de su concha. Reservar
+3. Dorar en aceite vegetal la
+cebolla picada, el ajo y los ajíes
+amarillo y mirasol. Condimentar
+con pimienta, palillo y sal.
+Agregar el pescado y soasar.
+Incorporar la papa picada en
+cuadraditos, las arvejas y la
+zanahoria picada. Antes de apagar,
+agregar los choros, el zumo de
+limón y el culantro picado
+4. Servir el cau cau de choros
+acompañado de arroz
+24
+1/4
+1/2
+1/2
+1/2
+1
+unidades de choros
+kg caballa
+kg papa blanca
+taza de arvejas frescas
+taza de zanahoria
+limón
+Pimienta, sal y culantro a gusto
+EL TIP
+Los mariscos de concha
+son excelentes aliados
+para combatir la anemia.
+Una porción contiene:
+Hierro: 5.4 mg
+23
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, cau, choros, arroz, cebolla, aceite, vegetal, ajo, molido, palillo, aji, amarillo, mirasol
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_022
+NOMBRE: LOCRO DE ZAPALLO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: zapallo
+
+INGREDIENTES_CLAVE:
+zapallo, arroz, papa, habas, frescas, rodajas, choclo, aceite, vegetal, cebolla
+
+INGREDIENTES:
+- 11/2
+- 1/2
+- 1/4
+- 4
+- 400
+- 1/4
+- 1
+- taza de arroz
+- kg de papa
+- kg de habas frescas
+- rodajas de choclo
+- g de zapallo
+- taza de aceite vegetal
+- cebolla mediana
+
+PREPARACION:
+1. Preparar el arroz graneado
+2. Freír los huevos
+3. en aceite vegetal
+3. En una olla, dorar en
+5. aceite vegetal la cebolla
+6. picada en cuadraditos, el
+7. ajo y el ají amarillo molido.
+8. Incorporar el zapallo picado,
+9. las papas picadas, las habas
+10. frescas peladas y los choclos
+11. cortados en rodajas
+4. Cocinar a fuego lento
+13. hasta que los alimentos estén
+14. cocidos. Incorporar la leche,
+15. el queso fresco, el huacatay
+16. y la sal. Mezclar todo
+17. y retirar del fuego.
+5. Servir el locro,
+19. acompañar con arroz
+20. graneado y huevo frito
+21. 2
+22. 2
+23. 4
+24. 1/2
+25. 1/4
+26. cucharaditas de ajo molido
+27. cucharadas de ají amarillo molido
+28. huevos
+29. taza de leche evaporada
+30. taza de queso fresco
+31. Sal y huacatay a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.1 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Locro de zapallo
+(4 porciones)
+Ingredientes
+11/2
+1/2
+1/4
+4
+400
+1/4
+1
+taza de arroz
+kg de papa
+kg de habas frescas
+rodajas de choclo
+g de zapallo
+taza de aceite vegetal
+cebolla mediana
+Preparación
+1. Preparar el arroz graneado
+2. Freír los huevos
+en aceite vegetal
+3. En una olla, dorar en
+aceite vegetal la cebolla
+picada en cuadraditos, el
+ajo y el ají amarillo molido.
+Incorporar el zapallo picado,
+las papas picadas, las habas
+frescas peladas y los choclos
+cortados en rodajas
+4. Cocinar a fuego lento
+hasta que los alimentos estén
+cocidos. Incorporar la leche,
+el queso fresco, el huacatay
+y la sal. Mezclar todo
+y retirar del fuego.
+5. Servir el locro,
+acompañar con arroz
+graneado y huevo frito
+2
+2
+4
+1/2
+1/4
+cucharaditas de ajo molido
+cucharadas de ají amarillo molido
+huevos
+taza de leche evaporada
+taza de queso fresco
+Sal y huacatay a gusto
+EL TIP
+24
+Los huevos son una
+fuente rica de proteínas
+y antioxidantes.
+Una porción contiene:
+Hierro: 4.1 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, locro, zapallo, arroz, papa, habas, frescas, rodajas, choclo, aceite, vegetal, cebolla, mediana
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_023
+NOMBRE: TRIGO A LA JARDINERA CON HÍGADO DE POLLO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: jardinera
+
+INGREDIENTES_CLAVE:
+jardinera, higado, pollo, arveja, fresca, zanahoria, aji, amarillo, molido
+
+INGREDIENTES:
+- 13/4
+- 1/2
+- 1/2
+- 1
+- 1
+- taza de trigo
+- kg de hígado de pollo
+- taza de arveja fresca
+- zanahoria
+- cucharada de ají amarillo molido
+
+PREPARACION:
+1. Lavar y remojar el trigo
+2. la noche anterior. Sancochar
+3. y granear
+2. Cocinar las arvejas
+5. frescas y la zanahoria picada
+6. en cuadraditos. Reservar
+3. Freír en aceite vegetal
+8. la cebolla picada en
+9. cuadraditos, el ají amarillo
+10. molido y el ajo picado.
+11. Condimentar con pimienta,
+12. comino y sal. Agregar el
+13. trigo graneado, las arvejas y
+14. la zanahoria picada. Mezclar
+4. Lavar y sazonar el hígado
+16. con ají colorado molido,
+17. ajo, sal, pimienta y comino.
+18. Freír y servir con el trigo a
+19. la jardinera
+20. 1
+21. 1
+22. 2
+23. 1/4
+24. cucharada de ají colorado molido
+25. cebolla
+26. dientes de ajos
+27. taza de aceite vegetal
+28. Sal, pimienta y comino a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 8.8 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Trigo a la jardinera
+con hígado de pollo
+(4 porciones)
+Ingredientes
+13/4
+1/2
+1/2
+1
+1
+taza de trigo
+kg de hígado de pollo
+taza de arveja fresca
+zanahoria
+cucharada de ají amarillo molido
+Preparación
+1. Lavar y remojar el trigo
+la noche anterior. Sancochar
+y granear
+2. Cocinar las arvejas
+frescas y la zanahoria picada
+en cuadraditos. Reservar
+3. Freír en aceite vegetal
+la cebolla picada en
+cuadraditos, el ají amarillo
+molido y el ajo picado.
+Condimentar con pimienta,
+comino y sal. Agregar el
+trigo graneado, las arvejas y
+la zanahoria picada. Mezclar
+4. Lavar y sazonar el hígado
+con ají colorado molido,
+ajo, sal, pimienta y comino.
+Freír y servir con el trigo a
+la jardinera
+1
+1
+2
+1/4
+cucharada de ají colorado molido
+cebolla
+dientes de ajos
+taza de aceite vegetal
+Sal, pimienta y comino a gusto
+EL TIP
+25
+Esta receta le resultará útil para
+innovar. Si desea incorporar más
+vegetales, puede hacerlo.
+Intente, por ejemplo, con
+beterraga o brócoli.
+Una porción contiene:
+Hierro: 8.8 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, trigo, jardinera, higado, pollo, arveja, fresca, zanahoria, aji, amarillo, molido
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_024
+NOMBRE: QUINUA ATAMALADA
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: atamalada
+
+INGREDIENTES_CLAVE:
+atamalada, aceite, vegetal, aji, colorado, piernas, pollo, cebolla
+
+INGREDIENTES:
+- 11/2
+- 4
+- 2
+- 1/2
+- 1
+- taza de quinua
+- cucharadas de aceite vegetal
+- cucharadas de ají colorado
+- kg de piernas de pollo
+- cebolla
+
+PREPARACION:
+1. Sancochar la quinua
+2. Hacer un aderezo con
+3. aceite vegetal, ajo y ají
+4. colorado. Agregar la quinua
+5. sancochada, sal y un poco de
+6. agua. Reservar
+3. Picar la cebolla y el ajo.
+8. Freírlos en aceite vegetal
+9. con el ají colorado. Sazonar
+10. con pimienta, comino y sal.
+11. Agregar las piernas de pollo,
+12. soasar y dejar cocinar
+4. Servir la quinua atamalada
+14. con pollo guisado, huevo
+15. sancochado y aceituna
+5. Acompañar con papas
+17. sancochadas y, si desea,
+18. salsa de ají amarillo
+19. o salsa criolla
+20. 2
+21. 1
+22. 4
+23. 1/2
+24. dientes de ajo
+25. huevo
+26. unidades de aceitunas
+27. kg de papa amarilla
+28. Sal, pimienta y comino a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 5.2 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+TEXTO_ORIGINAL:
+Quinua atamalada
+(4 porciones)
+Ingredientes
+11/2
+4
+2
+1/2
+1
+taza de quinua
+cucharadas de aceite vegetal
+cucharadas de ají colorado
+kg de piernas de pollo
+cebolla
+Preparación
+1. Sancochar la quinua
+2. Hacer un aderezo con
+aceite vegetal, ajo y ají
+colorado. Agregar la quinua
+sancochada, sal y un poco de
+agua. Reservar
+3. Picar la cebolla y el ajo.
+Freírlos en aceite vegetal
+con el ají colorado. Sazonar
+con pimienta, comino y sal.
+Agregar las piernas de pollo,
+soasar y dejar cocinar
+4. Servir la quinua atamalada
+con pollo guisado, huevo
+sancochado y aceituna
+5. Acompañar con papas
+sancochadas y, si desea,
+salsa de ají amarillo
+o salsa criolla
+2
+1
+4
+1/2
+dientes de ajo
+huevo
+unidades de aceitunas
+kg de papa amarilla
+Sal, pimienta y comino a gusto
+EL TIP
+26
+La quinua está libre de colesterol
+y gluten, por lo cual es perfecta
+para la dieta de los celiacos.
+Una porción contiene:
+Hierro: 5.2 mg
+Fe
+Segundos / Edición especial para prevenir y combatir la anemia
+
+ETIQUETAS:
+receta_peruana, quinua, atamalada, aceite, vegetal, aji, colorado, piernas, pollo, cebolla
+<<<RECETA_FIN>>>
+<<<RECETA_INICIO>>>
+ID_RECETA: recetario3_025
+NOMBRE: ESCABECHE DE BONITO
+FUENTE: recetario3.txt
+REGION: Peru
+CATEGORIA: Receta
+PORCIONES: 4 porciones
+INGREDIENTE_PRINCIPAL: bonito
+
+INGREDIENTES_CLAVE:
+bonito, filete, camote, arroz, vinagre, tinto, huevos, harina, trigo, cebolla
+
+INGREDIENTES:
+- 1/2
+- 1/2
+- 11/2
+- 1/3
+- 2
+- 1/2
+- 2
+- kg de bonito (filete)
+- kg de camote
+- taza de arroz
+- taza de vinagre tinto
+- huevos
+- taza de harina de trigo
+- cebolla
+
+PREPARACION:
+1. Sancochar los camotes y los
+2. huevos. Preparar, por otro lado,
+3. el arroz graneado.
+2. Lavar el bonito, cortar y
+5. sazonar con ajo, pimienta y sal.
+6. Apanar con harina y freír
+7. en aceite vegetal.
+3. Cortar las cebollas en gajos
+9. grandes. Agregar agua y hervir
+10. por 5 minutos.
+4. Dorar en aceite vegetal
+12. el ají amarillo y el ajo. Agregar
+13. las cebollas y los ajíes verdes en
+14. tiras. Incorporar la pimienta, el
+15. vinagre tinto, sal y el orégano.
+16. Dar un hervor. Luego, agregue
+17. el bonito frito y deje reposar
+18. con el aderezo.
+5.Sirva el escabeche
+20. de bonito acompañado
+21. de arroz, camote, huevo,
+22. aceituna y lechuga.
+23. 4
+24. 2
+25. 1/2
+26. 2
+27. 4
+28. 4
+29. cucharadas de ají amarillo molido
+30. ajíes verdes
+31. taza de aceite vegetal
+32. cucharaditas de ajo
+33. hojas de lechuga
+34. unidades de aceituna
+35. Sal, pimienta y orégano a gusto
+
+APORTE_NUTRICIONAL:
+Una porción contiene:
+Hierro: 4.2 mg
+Fe
+Almuerzo Media mañana Desayuno Día
+¡Arma tu menú punche!
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+Edición especial para prevenir y combatir la anemia
+Media tarde Cena
+Calcula tus gastos
+Organiza las comidas en casa, incluye
+alimentos con altos niveles de hierro y
+previene la anemia en todo momento.
+
+TEXTO_ORIGINAL:
+Escabeche de bonito
+(4 porciones)
+Ingredientes
+1/2
+1/2
+11/2
+1/3
+2
+1/2
+2
+kg de bonito (filete)
+kg de camote
+taza de arroz
+taza de vinagre tinto
+huevos
+taza de harina de trigo
+cebolla
+Preparación
+1. Sancochar los camotes y los
+huevos. Preparar, por otro lado,
+el arroz graneado.
+2. Lavar el bonito, cortar y
+sazonar con ajo, pimienta y sal.
+Apanar con harina y freír
+en aceite vegetal.
+3. Cortar las cebollas en gajos
+grandes. Agregar agua y hervir
+por 5 minutos.
+4. Dorar en aceite vegetal
+el ají amarillo y el ajo. Agregar
+las cebollas y los ajíes verdes en
+tiras. Incorporar la pimienta, el
+vinagre tinto, sal y el orégano.
+Dar un hervor. Luego, agregue
+el bonito frito y deje reposar
+con el aderezo.
+5.Sirva el escabeche
+de bonito acompañado
+de arroz, camote, huevo,
+aceituna y lechuga.
+4
+2
+1/2
+2
+4
+4
+cucharadas de ají amarillo molido
+ajíes verdes
+taza de aceite vegetal
+cucharaditas de ajo
+hojas de lechuga
+unidades de aceituna
+Sal, pimienta y orégano a gusto
+EL TIP
+27
+Los pescados azules son
+los mejores para prevenir
+o tratar la anemia.
+Una porción contiene:
+Hierro: 4.2 mg
+Fe
+Almuerzo Media mañana Desayuno Día
+¡Arma tu menú punche!
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+Edición especial para prevenir y combatir la anemia
+Media tarde Cena
+Calcula tus gastos
+Organiza las comidas en casa, incluye
+alimentos con altos niveles de hierro y
+previene la anemia en todo momento.
+
+ETIQUETAS:
+receta_peruana, escabeche, bonito, filete, camote, arroz, vinagre, tinto, huevos, harina, trigo, cebolla
+<<<RECETA_FIN>>>

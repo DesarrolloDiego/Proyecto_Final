@@ -1,0 +1,12 @@
+aisuite
+faiss-cpu
+google-generativeai
+numpy
+pdfplumber
+pypdf
+python-docx
+python-dotenv
+reportlab
+requests
+streamlit
+
