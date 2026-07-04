@@ -1,4 +1,4 @@
-[global]
+[browser]
 gatherUsageStats = false
 
 [server]
@@ -8,9 +8,9 @@ enableCORS = false
 enableXsrfProtection = false
 
 [theme]
-primaryColor = "#E53935"
-backgroundColor = "#FFF8E1"
-secondaryBackgroundColor = "#FFECB3"
-textColor = "#212121"
+primaryColor = "#B23A2B"
+backgroundColor = "#FFFCF7"
+secondaryBackgroundColor = "#F2F7F4"
+textColor = "#1F211D"
 font = "sans serif"
 

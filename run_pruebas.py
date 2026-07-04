@@ -8,7 +8,10 @@ from perurecetas_core import (
     AgenteRecetas,
     catalogar_dataset,
     consultar_api_comida_peru,
+    detectar_region_en_texto,
     dividir_en_chunks,
+    extraer_ingrediente_en_texto,
+    extraer_limite_en_texto,
     normalizar_texto,
     slug_region,
     sugerir_sustitucion_ingredientes,
@@ -34,7 +37,47 @@ def prueba_dataset_minimo() -> dict:
 def prueba_normalizacion_region() -> dict:
     assert slug_region("San Martin") == "san-martin"
     assert slug_region("La Libertad") == "la-libertad"
+    assert detectar_region_en_texto("adobo arequipeño") == "arequipa"
     return ok("normalizacion_region_api", "Slugs de region correctos.")
+
+
+def prueba_parametros_api_chat() -> dict:
+    mensaje = "Dame 3 platos de Arequipa con cerdo"
+    assert detectar_region_en_texto(mensaje) == "arequipa"
+    assert extraer_ingrediente_en_texto(mensaje, region="arequipa") == "cerdo"
+    assert extraer_limite_en_texto(mensaje) == 3
+    mensaje_corto = "Arequipa aji 5"
+    assert extraer_ingrediente_en_texto(mensaje_corto, region="arequipa") == "aji"
+    assert extraer_limite_en_texto(mensaje_corto) == 5
+    return ok("parametros_api_chat", "Region, ingrediente y limite extraidos correctamente.")
+
+
+def prueba_documentos_txt_rag() -> dict:
+    agente = AgenteRecetas(cargar_indice=False)
+    mensaje = "Busca en recetarios TXT ENSALADA DE OCORURO"
+    respuesta_api = agente._consultar_api_si_aplica(mensaje)
+    assert "No se consulto la API" in respuesta_api
+    contexto = agente._contexto_rag(mensaje)
+    assert "ensalada de ocoruro" in normalizar_texto(contexto)
+    return ok("documentos_txt_rag", "Consulta TXT recupera Ensalada de Ocoruro sin usar API.")
+
+
+def prueba_busqueda_cinco_recetarios() -> dict:
+    agente = AgenteRecetas(cargar_indice=False)
+    casos = {
+        "recetario1.txt": "Busca en recetarios TXT ENSALADA DE OCORURO",
+        "recetario2.txt": "Busca en recetarios TXT CAIGUA RELLENA",
+        "recetario3.txt": "Busca en recetarios TXT PARIHUELA DE BONITO",
+        "recetario4.txt": "Busca en recetarios TXT PAICHE ENVUELTO EN HOJA DE BIJAO",
+        "recetario5.txt": "Busca en recetarios TXT ADOBO AREQUIPEÑO",
+    }
+    for fuente, consulta in casos.items():
+        resultados = agente.rag.buscar(consulta, top_k=1)
+        assert resultados, f"No se recupero resultado para {fuente}."
+        assert resultados[0]["source"] == fuente, (
+            f"Se esperaba {fuente}, se obtuvo {resultados[0]['source']}."
+        )
+    return ok("busqueda_cinco_recetarios", "El buscador recupera recetas de los 5 TXT.")
 
 
 def prueba_tool_sustitucion() -> dict:
@@ -51,9 +94,18 @@ def prueba_chunking() -> dict:
 
 
 def prueba_api_externa() -> dict:
-    respuesta = consultar_api_comida_peru("arequipa", ingrediente="aji", limite=3)
+    respuesta = consultar_api_comida_peru("arequipa", ingrediente="cerdo", limite=3)
     assert "API comida peruana" in respuesta
+    assert "adobo" in normalizar_texto(respuesta)
     return ok("api_externa_comida_peru", respuesta.splitlines()[0])
+
+
+def prueba_agente_api_regional() -> dict:
+    agente = AgenteRecetas(cargar_indice=False)
+    respuesta = agente._consultar_api_si_aplica("Dame 3 platos de Arequipa con cerdo")
+    assert "API comida peruana" in respuesta
+    assert "adobo" in normalizar_texto(respuesta)
+    return ok("agente_api_regional", respuesta.splitlines()[0])
 
 
 def prueba_rag_faiss() -> dict:
@@ -76,11 +128,14 @@ def ejecutar(offline: bool = False) -> list[dict]:
     pruebas = [
         prueba_dataset_minimo,
         prueba_normalizacion_region,
+        prueba_parametros_api_chat,
+        prueba_documentos_txt_rag,
+        prueba_busqueda_cinco_recetarios,
         prueba_tool_sustitucion,
         prueba_chunking,
     ]
     if not offline:
-        pruebas.extend([prueba_api_externa, prueba_rag_faiss, prueba_agente_memoria])
+        pruebas.extend([prueba_api_externa, prueba_agente_api_regional, prueba_rag_faiss, prueba_agente_memoria])
 
     resultados = []
     for prueba in pruebas:

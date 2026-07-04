@@ -52,6 +52,30 @@ rag.construir(force=True)
 streamlit run app.py
 ```
 
+## Guia rapida de consultas
+
+### Consultar la API
+
+Para que el chat use la API externa, escribe una region del Peru, un ingrediente y un limite de resultados:
+
+```text
+Dame 3 platos de Arequipa con cerdo
+Arequipa aji 5
+Platos de Lima con pollo limite 2
+```
+
+### Consultar los recetarios TXT
+
+Para que el chat use los documentos locales, menciona `TXT`, `RAG`, `recetario`, `recetarios` o `documentos`, junto con el nombre de la receta o ingrediente:
+
+```text
+Busca en recetarios TXT ENSALADA DE OCORURO
+Ingredientes de la ensalada de ocoruro segun los documentos
+Preparacion de watya en el recetario
+Busca en recetario5.txt ADOBO AREQUIPEÑO
+Busca en recetario4.txt PAICHE ENVUELTO EN HOJA DE BIJAO
+```
+
 ## Ejecutar pruebas
 
 Pruebas locales sin API/LLM:

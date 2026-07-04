@@ -40,22 +40,22 @@ try:
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", FutureWarning)
         import google.generativeai as genai
-except ImportError:  # pragma: no cover
+except ImportError:  # pragma: no cover - para pruebas
     genai = None
 
 try:
     import faiss
-except ImportError:  # pragma: no cover
+except ImportError:  # pragma: no cover - para pruebas
     faiss = None
 
 try:
     import requests
-except ImportError:  # pragma: no cover
+except ImportError:  # pragma: no cover - para pruebas
     requests = None
 
 try:
     import aisuite as ai
-except ImportError:  # pragma: no cover
+except ImportError:  # pragma: no cover - para pruebas
     ai = None
 
 
@@ -94,6 +94,54 @@ REGIONES_PERU = {
     "tacna": "tacna",
     "tumbes": "tumbes",
     "ucayali": "ucayali",
+}
+
+GENTILICIOS_REGION = {
+    "amazonense": "amazonas",
+    "ancashino": "ancash",
+    "ancashina": "ancash",
+    "apurimeno": "apurimac",
+    "apurimena": "apurimac",
+    "arequipeno": "arequipa",
+    "arequipena": "arequipa",
+    "ayacuchano": "ayacucho",
+    "ayacuchana": "ayacucho",
+    "cajamarquino": "cajamarca",
+    "cajamarquina": "cajamarca",
+    "chalaco": "callao",
+    "chalaca": "callao",
+    "cusqueno": "cusco",
+    "cusquena": "cusco",
+    "huancavelicano": "huancavelica",
+    "huancavelicana": "huancavelica",
+    "huanuqueno": "huanuco",
+    "huanuquena": "huanuco",
+    "iqueno": "ica",
+    "iquena": "ica",
+    "juninense": "junin",
+    "liberteno": "la-libertad",
+    "libertena": "la-libertad",
+    "lambayecano": "lambayeque",
+    "lambayecana": "lambayeque",
+    "limeno": "lima",
+    "limena": "lima",
+    "loretano": "loreto",
+    "loretana": "loreto",
+    "moqueguano": "moquegua",
+    "moqueguana": "moquegua",
+    "pasqueno": "pasco",
+    "pasquena": "pasco",
+    "piurano": "piura",
+    "piurana": "piura",
+    "puneno": "puno",
+    "punena": "puno",
+    "sanmartinense": "san-martin",
+    "tacneno": "tacna",
+    "tacnena": "tacna",
+    "tumbesino": "tumbes",
+    "tumbesina": "tumbes",
+    "ucayalino": "ucayali",
+    "ucayalina": "ucayali",
 }
 
 
@@ -382,25 +430,72 @@ class PeruRecetasFAISS:
         self.chunks = [RagChunk(**item) for item in data]
 
     def buscar(self, consulta: str, top_k: int = 4) -> List[Dict[str, Any]]:
-        """Búsqueda directa en los archivos TXT de recetas.
+        """Busqueda directa en los archivos TXT de recetas.
         Busca coincidencias en el nombre de la receta o en su contenido completo,
-        basada en tokens extraídos de la consulta del usuario."""
-        tokens = re.findall(r"[a-zñ0-9]+", consulta.lower())
+        basada en tokens extraidos de la consulta del usuario."""
+        consulta_norm = normalizar_texto(consulta)
+        recetarios_filtrados = {
+            f"recetario{match}"
+            for match in re.findall(r"\brecetario\s*([1-5])(?:\.txt)?\b", consulta_norm)
+        }
+        stopwords_busqueda = {
+            "api",
+            "busca",
+            "buscar",
+            "consulta",
+            "consultar",
+            "de",
+            "del",
+            "documento",
+            "documentos",
+            "el",
+            "en",
+            "la",
+            "las",
+            "los",
+            "por",
+            "rag",
+            "receta",
+            "recetas",
+            "recetario",
+            "recetarios",
+            "segun",
+            "txt",
+            "una",
+        }
+        tokens = [
+            tok
+            for tok in re.findall(r"[a-z0-9]+", consulta_norm)
+            if len(tok) > 2
+            and tok not in stopwords_busqueda
+            and not tok.startswith("recetario")
+        ]
+        if not tokens:
+            return []
+
         resultados: List[Dict[str, Any]] = []
         for txt_path in self.recetarios_dir.glob("*.txt"):
+            if recetarios_filtrados and txt_path.stem not in recetarios_filtrados:
+                continue
             for receta in extraer_recetas_txt(txt_path):
                 nombre_norm = normalizar_texto(receta["name"])
                 texto_norm = normalizar_texto(receta["text"])
-                if any(tok in nombre_norm or tok in texto_norm for tok in tokens):
-                    resultados.append({
-                        "score": 1.0,
-                        "source": txt_path.name,
-                        "page": None,
-                        "text": receta["text"],
-                    })
-                    if len(resultados) >= top_k:
-                        return resultados
-        return resultados
+                nombre_hits = sum(1 for tok in tokens if tok in nombre_norm)
+                texto_hits = sum(1 for tok in tokens if tok in texto_norm)
+                if nombre_hits or texto_hits:
+                    score = (nombre_hits * 3.0) + texto_hits
+                    if len(tokens) > 1 and all(tok in nombre_norm for tok in tokens):
+                        score += 5.0
+                    resultados.append(
+                        {
+                            "score": score,
+                            "source": txt_path.name,
+                            "page": None,
+                            "text": receta["text"],
+                        }
+                    )
+        resultados.sort(key=lambda item: item["score"], reverse=True)
+        return resultados[:top_k]
 
     def contexto(self, consulta: str, top_k: int = 4) -> str:
         """Devuelve contexto RAG formateado para el prompt.
@@ -593,14 +688,32 @@ def detectar_region_en_texto(texto: str) -> Optional[str]:
     for nombre, slug in REGIONES_PERU.items():
         if nombre in normalizado or slug.replace("-", " ") in normalizado:
             return slug
+    for gentilicio, slug in GENTILICIOS_REGION.items():
+        if gentilicio in normalizado:
+            return slug
     return None
 
 
-def extraer_ingrediente_en_texto(texto: str) -> Optional[str]:
+def extraer_limite_en_texto(texto: str, predeterminado: int = 5) -> int:
+    """Extrae el limite de resultados solicitado para la API."""
+    normalizado = normalizar_texto(texto)
+    patrones = [
+        r"\blimite\s*(?:de)?\s*(\d{1,2})\b",
+        r"\b(\d{1,2})\s*(?:platos|recetas|resultados)\b",
+        r"\b(\d{1,2})\b",
+    ]
+    for patron in patrones:
+        match = re.search(patron, normalizado)
+        if match:
+            return max(1, min(int(match.group(1)), 10))
+    return max(1, min(int(predeterminado), 10))
+
+
+def extraer_ingrediente_en_texto(texto: str, region: Optional[str] = None) -> Optional[str]:
     """Extrae de forma simple un posible ingrediente desde la consulta del usuario."""
     normalizado = normalizar_texto(texto)
     patrones = [
-        r"ingrediente[s]?\s+(?:de|con)?\s*([a-zñ\s]+)",
+        r"ingrediente[s]?\s*(?:de|con|:)?\s*([a-zñ\s]+)",
         r"con\s+([a-zñ\s]+)",
         r"que\s+tengan\s+([a-zñ\s]+)",
     ]
@@ -608,9 +721,60 @@ def extraer_ingrediente_en_texto(texto: str) -> Optional[str]:
         match = re.search(patron, normalizado)
         if match:
             candidato = match.group(1).strip()
-            candidato = re.split(r"\b(en|para|de|del|por|y)\b", candidato)[0].strip()
+            candidato = re.split(
+                r"\b(en|para|de|del|por|y|limite|platos|recetas|resultados)\b|\d+",
+                candidato,
+            )[0].strip()
             if 2 <= len(candidato) <= 40:
                 return candidato
+
+    if not re.search(r"\d", normalizado):
+        return None
+
+    texto_limpio = re.sub(r"[^a-z0-9ñ\s]", " ", normalizado)
+    if region:
+        for nombre, slug in REGIONES_PERU.items():
+            if slug == region:
+                texto_limpio = re.sub(rf"\b{re.escape(nombre)}\b", " ", texto_limpio)
+                texto_limpio = re.sub(
+                    rf"\b{re.escape(slug.replace('-', ' '))}\b", " ", texto_limpio
+                )
+        for gentilicio, slug in GENTILICIOS_REGION.items():
+            if slug == region:
+                texto_limpio = re.sub(rf"\b{re.escape(gentilicio)}\b", " ", texto_limpio)
+
+    stopwords = {
+        "api",
+        "comida",
+        "con",
+        "de",
+        "del",
+        "dame",
+        "el",
+        "en",
+        "ingrediente",
+        "ingredientes",
+        "la",
+        "las",
+        "limite",
+        "los",
+        "plato",
+        "platos",
+        "por",
+        "receta",
+        "recetas",
+        "region",
+        "resultados",
+        "un",
+        "una",
+    }
+    tokens = [
+        token
+        for token in texto_limpio.split()
+        if token not in stopwords and not token.isdigit()
+    ]
+    if tokens:
+        return " ".join(tokens[:3])
     return None
 
 
@@ -653,13 +817,34 @@ class AgenteRecetas:
 
     def _consultar_api_si_aplica(self, mensaje: str) -> str:
         normalizado = normalizar_texto(mensaje)
-        palabras_api = ["api", "region", "plato tipico", "platos tipicos", "arequipa", "lima", "cusco"]
-        region = detectar_region_en_texto(mensaje)
-        if region is None or not any(p in normalizado for p in palabras_api):
+        palabras_documentos = ["txt", "rag", "recetario", "recetarios", "documento", "documentos", "faiss"]
+        if "api" not in normalizado and any(p in normalizado for p in palabras_documentos):
             return "No se consulto la API externa para esta pregunta."
-        ingrediente = extraer_ingrediente_en_texto(mensaje)
+        region = detectar_region_en_texto(mensaje)
+        if region is None:
+            return "No se consulto la API externa para esta pregunta."
+        ingrediente = extraer_ingrediente_en_texto(mensaje, region=region)
+        limite = extraer_limite_en_texto(mensaje)
+        palabras_api = [
+            "api",
+            "comida",
+            "ingrediente",
+            "ingredientes",
+            "plato",
+            "platos",
+            "preparacion",
+            "receta",
+            "recetas",
+            "region",
+        ]
+        if not ingrediente and not any(p in normalizado for p in palabras_api):
+            return "No se consulto la API externa para esta pregunta."
         try:
-            return consultar_api_comida_peru(region=region, ingrediente=ingrediente, limite=5)
+            return consultar_api_comida_peru(
+                region=region,
+                ingrediente=ingrediente,
+                limite=limite,
+            )
         except Exception as exc:
             return f"No se pudo consultar la API externa: {exc}"
 
@@ -713,12 +898,16 @@ class AgenteRecetas:
         else:
             contexto_section = f"\nContexto recuperado por FAISS/RAG:\n{contexto_rag_raw}\n"
         resultado_api = self._consultar_api_si_aplica(mensaje)
+        if resultado_api.startswith("API comida peruana"):
+            contexto_section = ""
         memoria = self._memoria_reciente()
         prompt = f"""Instrucciones:
 - Tu objetivo principal es que, a partir de una solicitud de un producto o ingrediente, encuentres y proporciones una receta adecuada.
 - Responde en espanol claro y util.
-- Usa el contexto RAG como fuente principal cuando sea relevante.
-- Usa el resultado de API cuando el usuario pida platos por region, ingrediente o datos externos.
+- Usa el contexto RAG como fuente principal cuando la consulta sea sobre los documentos locales.
+- Usa el resultado de API cuando el usuario pida platos por region, ingrediente y limite.
+- Si la API devuelve platos que coinciden con la pregunta, prioriza esos datos regionales sobre el conocimiento general.
+- No mezcles datos de RAG y API si se contradicen; indica la fuente que estas usando.
 - Si no hay suficiente informacion, dilo y propone una consulta mas especifica.
 - No inventes fuentes; cita el archivo TXT y el nombre de la receta cuando uses RAG.
 
