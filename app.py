@@ -20,7 +20,9 @@ st.set_page_config(
 )
 
 st.title("PeruRecetas")
-st.caption("Agente de recetas y nutricion peruana con RAG, FAISS, Gemini y API externa.")
+st.image("C:/Users/start/.gemini/antigravity-ide/brain/cea13ee8-0c9b-4c62-887c-9a935eff86bb/peru_banner_es_clean_1783139113860.png", width='stretch')
+st.caption("Agente de recetas y nutrición peruana con RAG, FAISS, Gemini y API externa.")
+
 
 
 def api_key_ok() -> bool:

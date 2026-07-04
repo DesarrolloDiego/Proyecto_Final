@@ -159,40 +159,56 @@ def crear_docx() -> None:
     meta.add_run(f"Fecha de entrega: {FECHA}")
     doc.add_page_break()
 
-    add_heading(doc, "1. Resumen ejecutivo", 1)
-    doc.add_paragraph(
-        "PeruRecetas es un agente de recetas y nutricion peruana que combina un LLM Gemini, "
-        "memoria conversacional, tools de Python, recuperacion aumentada por generacion "
-        "(RAG) con FAISS y una API externa de platos peruanos."
-    )
-
-    add_heading(doc, "2. Objetivo del proyecto", 1)
-    doc.add_paragraph(
-        "Implementar un agente AI aplicado a gastronomia peruana y nutricion basica, "
-        "cumpliendo el flujo solicitado: agente LLM, memoria, tools, RAG y pruebas."
-    )
-
-    add_heading(doc, "3. Arquitectura", 1)
-    doc.add_picture(str(ARCH_PATH), width=Inches(6.2))
-    doc.add_paragraph(
-        "El usuario interactua desde el notebook o Streamlit. El agente consulta memoria, "
-        "tools locales, FAISS/RAG y la API externa antes de construir el prompt enviado al LLM."
-    )
-
-    add_heading(doc, "4. Modelos y librerias utilizadas", 1)
+    add_heading(doc, "A. Descripción general de los modelos o librerías utilizadas", 1)
     add_bullets(
         doc,
         [
-            "Gemini: modelo LLM y embeddings para representar semanticamente los documentos.",
-            "AIsuite: cliente unificado para llamadas a modelos; se deja fallback al SDK oficial de Gemini.",
-            "FAISS: base vectorial para busqueda semantica de chunks extraidos de TXT etiquetados.",
-            "TXT etiquetados: recetas delimitadas con campos de ingredientes, preparacion y etiquetas.",
-            "Streamlit: interfaz web para chat, consulta API, RAG e historial.",
-            "requests/urllib: consulta HTTP a la API externa de comida peruana.",
+            "Gemini (google-generativeai): Modelo LLM principal usado para la generación de respuestas y embeddings.",
+            "AIsuite: Cliente unificado que permite interactuar con múltiples proveedores de LLMs. Se configuró para interactuar con Gemini.",
+            "FAISS (faiss-cpu): Librería de Meta para búsqueda de similitud eficiente y agrupamiento de vectores densos. Usada para el índice del RAG.",
+            "Streamlit: Framework para crear aplicaciones web interactivas en Python, usado para la UI del proyecto.",
+            "requests / urllib: Utilizados para las llamadas HTTP a la API externa de comida peruana.",
+            "pdfplumber / pypdf: Utilizados inicialmente para extraer texto de PDFs (ahora se usan TXTs extraídos).",
         ],
     )
 
-    add_heading(doc, "5. Dataset RAG", 1)
+    add_heading(doc, "B. Flujo de trabajo personalizado", 1)
+    doc.add_paragraph(
+        "El flujo de trabajo comienza cuando el usuario introduce una consulta a través de la interfaz web (Streamlit). "
+        "El Agente recibe la consulta e intenta enriquecer el contexto mediante dos vías paralelas: "
+        "1. Realiza una búsqueda semántica en la base de datos vectorial (FAISS) para recuperar recetas locales relevantes (RAG). "
+        "2. Identifica si la consulta requiere información de la API externa (por ejemplo, platos típicos de una región) y realiza la petición HTTP si es necesario. "
+        "Con el contexto recuperado, el historial de la conversación (memoria) y la consulta del usuario, se construye un prompt estructurado. "
+        "Este prompt es enviado al LLM (Gemini), el cual genera una respuesta precisa y fundamentada, que finalmente se muestra al usuario en la interfaz."
+    )
+
+    add_heading(doc, "C. Gráficos de arquitectura y funcionamiento", 1)
+    doc.add_picture(str(ARCH_PATH), width=Inches(6.2))
+    doc.add_paragraph("Figura 1: Arquitectura de componentes del sistema PeruRecetas.")
+
+    add_heading(doc, "D. Descripción de los pasos de configuración en el entorno de Python", 1)
+    add_bullets(
+        doc,
+        [
+            "1. Creación de un entorno virtual: Se recomienda usar 'python -m venv venv' para aislar las dependencias.",
+            "2. Activación del entorno virtual: 'source venv/bin/activate' en Linux/Mac o 'venv\\Scripts\\activate' en Windows.",
+            "3. Instalación de dependencias: Ejecutar 'pip install -r requirements.txt' para instalar Streamlit, FAISS, AIsuite, Google Generative AI, entre otros.",
+            "4. Configuración de variables de entorno: Crear un archivo '.env' basado en '.env.example' y añadir la clave 'GOOGLE_API_KEY'.",
+            "5. Ejecución de la aplicación: Iniciar la app web mediante el comando 'streamlit run app.py'.",
+        ],
+    )
+
+    add_heading(doc, "E. Implementación del código en Python", 1)
+    doc.add_paragraph(
+        "La implementación principal reside en 'perurecetas_core.py'. Las características clave son:\n"
+        "• Llamada al LLM: Se realiza a través de la clase AgenteRecetas en el método '_llamar_llm', que intenta usar AIsuite primero, y como respaldo (fallback) utiliza el SDK nativo 'google.generativeai'. "
+        "El método 'enviar_mensaje' orquesta la construcción del prompt final.\n"
+        "• Tools con Docstrings: Se implementaron funciones como 'consultar_api_comida_peru' (busca datos en la API) y 'recomendar_recetas_por_ingrediente' (sugiere opciones locales). Ambas cuentan con Docstrings detallados que explican sus argumentos y valores de retorno.\n"
+        "• RAG: La clase 'PeruRecetasFAISS' maneja la indexación y recuperación. Se generan embeddings de los TXTs con Gemini y se indexan con FAISS ('IndexFlatIP'). En la recuperación, se devuelve el texto que hace 'match' semántico o textual (fallback) con la consulta del usuario."
+    )
+
+    add_heading(doc, "F. Descripción de la data utilizada para el RAG", 1)
+    doc.add_paragraph("Se utilizaron al menos 5 recetarios (convertidos a TXT) especializados en cocina peruana y andina.")
     catalogo = catalogar_dataset()
     table = doc.add_table(rows=1, cols=4)
     table.style = "Table Grid"
@@ -207,65 +223,6 @@ def crear_docx() -> None:
         row[1].text = str(item["ruta"])
         row[2].text = str(item["tamano_bytes"])
         row[3].text = str(item.get("recetas", "No calculado"))
-
-    add_heading(doc, "6. Implementacion", 1)
-    add_bullets(
-        doc,
-        [
-            "Memoria: historial de mensajes de usuario y asistente dentro de AgenteRecetas.",
-            "Tools: recomendacion por ingrediente, sustitucion de ingredientes y consulta API.",
-            "RAG: lectura de TXT etiquetados, chunking, embeddings Gemini, normalizacion e indice FAISS.",
-            "API externa: consulta de platos por region, ingrediente, tipo y busqueda libre.",
-            "Interfaz: PeruRecetas en Streamlit con chat, API, RAG e historial.",
-        ],
-    )
-
-    add_heading(doc, "7. Pruebas propuestas", 1)
-    add_bullets(
-        doc,
-        [
-            "Validar que existen al menos 5 TXT y recetas etiquetadas para el RAG.",
-            "Validar normalizacion de regiones para la API.",
-            "Validar tool de sustitucion de ingredientes.",
-            "Validar chunking de textos para el RAG.",
-            "Validar API externa, recuperacion FAISS y memoria del agente en pruebas completas.",
-        ],
-    )
-
-    add_heading(doc, "8. Cumplimiento del enunciado", 1)
-    cumplimiento = [
-        ("Agente LLM", "Cubierto con Gemini y clase AgenteRecetas."),
-        ("Memoria", "Cubierto con historial conversacional."),
-        ("Tools", "Cubierto con tres tools: recetas, sustituciones y API externa."),
-        ("RAG", "Cubierto con FAISS y cinco TXT etiquetados del directorio recetarios."),
-        ("Mejoramiento de tools", "Cubierto con consulta de informacion desde API externa."),
-        ("Pruebas", "Cubierto con run_pruebas.py y celdas de prueba en el notebook."),
-    ]
-    table = doc.add_table(rows=1, cols=2)
-    table.style = "Table Grid"
-    table.rows[0].cells[0].text = "Requisito"
-    table.rows[0].cells[1].text = "Estado"
-    for req, estado in cumplimiento:
-        row = table.add_row().cells
-        row[0].text = req
-        row[1].text = estado
-
-    add_heading(doc, "9. Conclusiones", 1)
-    doc.add_paragraph(
-        "El proyecto queda preparado para demostrar un agente autonomo aplicado al dominio "
-        "gastronomico peruano. La arquitectura separa datos, recuperacion, herramientas, "
-        "modelo e interfaz, lo que facilita la exposicion y la ejecucion en vivo."
-    )
-
-    add_heading(doc, "10. Fuentes", 1)
-    add_bullets(
-        doc,
-        [
-            "API de comida peruana: https://api-comida-peru.luisgagocasas.com/",
-            "Dataset local: cinco TXT etiquetados ubicados en recetarios/.",
-            "Enunciado del proyecto: RNA_proyecto_enunciado 26-1.pdf.",
-        ],
-    )
 
     doc.save(DOCX_PATH)
 
@@ -335,34 +292,41 @@ def crear_pdf() -> None:
 
     sections = [
         (
-            "1. Resumen ejecutivo",
-            "PeruRecetas es un agente de recetas y nutricion peruana que combina Gemini, memoria conversacional, tools de Python, RAG con FAISS y una API externa de platos peruanos.",
+            "A. Descripción general de los modelos o librerías",
+            "Gemini (LLM principal y embeddings), AIsuite (cliente unificado), FAISS (búsqueda semántica), Streamlit (interfaz web), y librerías estándar como requests para consultar la API."
         ),
         (
-            "2. Objetivo del proyecto",
-            "Implementar un agente AI aplicado a gastronomia peruana y nutricion basica, cumpliendo el flujo solicitado: agente LLM, memoria, tools, RAG y pruebas.",
+            "B. Flujo de trabajo personalizado",
+            "El Agente recibe la consulta, busca contexto en FAISS (RAG), consulta la API externa si aplica, y combina la memoria con estos datos para formar un prompt. El LLM (Gemini) genera la respuesta basándose estrictamente en esta información estructurada."
         ),
     ]
     for title, body in sections:
         story.append(p(title, styles["H1Blue"]))
         story.append(p(body, styles["Body"]))
 
-    story.append(p("3. Arquitectura", styles["H1Blue"]))
+    story.append(p("C. Gráficos de arquitectura", styles["H1Blue"]))
     story.append(RLImage(str(ARCH_PATH), width=6.2 * inch, height=3.36 * inch))
     story.append(Spacer(1, 0.12 * inch))
 
-    story.append(p("4. Modelos y librerias utilizadas", styles["H1Blue"]))
+    story.append(p("D. Configuración en el entorno de Python", styles["H1Blue"]))
     bullets = [
-        "Gemini: LLM y embeddings.",
-        "AIsuite: cliente unificado con fallback al SDK de Gemini.",
-        "FAISS: base vectorial del RAG.",
-        "TXT etiquetados: lectura estructurada de recetas.",
-        "Streamlit: interfaz web PeruRecetas.",
-        "requests/urllib: consulta de API externa.",
+        "1. Crear y activar un entorno virtual.",
+        "2. Instalar dependencias con 'pip install -r requirements.txt'.",
+        "3. Configurar la GOOGLE_API_KEY en el archivo '.env'.",
+        "4. Ejecutar la aplicación web con 'streamlit run app.py'."
     ]
     story.append(ListFlowable([ListItem(p(item, styles["Body"])) for item in bullets], bulletType="bullet"))
 
-    story.append(p("5. Dataset RAG", styles["H1Blue"]))
+    story.append(p("E. Implementación del código en Python", styles["H1Blue"]))
+    impl = [
+        "Llamada al LLM: Implementada en 'AgenteRecetas._llamar_llm' utilizando AIsuite o google-generativeai.",
+        "Tools con Docstrings: Funciones como 'consultar_api_comida_peru' documentadas con pydoc para explicar su propósito y parámetros.",
+        "RAG: La clase 'PeruRecetasFAISS' realiza la vectorización con Gemini y recuperación con FAISS."
+    ]
+    story.append(ListFlowable([ListItem(p(item, styles["Body"])) for item in impl], bulletType="bullet"))
+
+    story.append(p("F. Descripción de la data utilizada para el RAG", styles["H1Blue"]))
+    story.append(p("Se utilizaron al menos 5 recetarios procesados en formato TXT estructurado.", styles["Body"]))
     catalogo = catalogar_dataset()
     rows = [["Archivo", "Ruta", "Tamano", "Recetas"]]
     for item in catalogo:
@@ -386,48 +350,6 @@ def crear_pdf() -> None:
         )
     )
     story.append(table)
-    story.append(Spacer(1, 0.15 * inch))
-
-    story.append(p("6. Implementacion y pruebas", styles["H1Blue"]))
-    impl = [
-        "Memoria: historial conversacional en AgenteRecetas.",
-        "Tools: recetas, sustituciones y consulta API.",
-        "RAG: TXT etiquetados, chunking, embeddings Gemini y FAISS.",
-        "Pruebas: dataset minimo, regiones, sustituciones, chunking, API, FAISS y memoria.",
-    ]
-    story.append(ListFlowable([ListItem(p(item, styles["Body"])) for item in impl], bulletType="bullet"))
-
-    story.append(p("7. Cumplimiento del enunciado", styles["H1Blue"]))
-    rows = [
-        ["Requisito", "Estado"],
-        ["Agente LLM", "Gemini + AgenteRecetas"],
-        ["Memoria", "Historial de conversacion"],
-        ["Tools", "Recetas, sustituciones y API externa"],
-        ["RAG", "FAISS con cinco TXT etiquetados"],
-        ["Mejoramiento", "Consulta de informacion de APIs"],
-        ["Pruebas", "run_pruebas.py + notebook"],
-    ]
-    table = Table(rows, colWidths=[2.0 * inch, 4.2 * inch])
-    table.setStyle(
-        TableStyle(
-            [
-                ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#F2F4F7")),
-                ("GRID", (0, 0), (-1, -1), 0.4, colors.HexColor("#B8C2CC")),
-                ("FONTNAME", (0, 0), (-1, 0), font_bold),
-                ("FONTNAME", (0, 1), (-1, -1), font_regular),
-                ("VALIGN", (0, 0), (-1, -1), "TOP"),
-            ]
-        )
-    )
-    story.append(table)
-
-    story.append(p("8. Fuentes", styles["H1Blue"]))
-    refs = [
-        "API de comida peruana: https://api-comida-peru.luisgagocasas.com/",
-        "Dataset local: cinco TXT etiquetados ubicados en recetarios/.",
-        "Enunciado del proyecto: RNA_proyecto_enunciado 26-1.pdf.",
-    ]
-    story.append(ListFlowable([ListItem(p(item, styles["Body"])) for item in refs], bulletType="bullet"))
 
     doc.build(story)
 

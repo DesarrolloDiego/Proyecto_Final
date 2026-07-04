@@ -382,36 +382,39 @@ class PeruRecetasFAISS:
         self.chunks = [RagChunk(**item) for item in data]
 
     def buscar(self, consulta: str, top_k: int = 4) -> List[Dict[str, Any]]:
-        """Busca los chunks mas relevantes para una consulta."""
-        if self.index is None:
-            self.cargar()
-        query_embedding = generar_embeddings(
-            [consulta],
-            task_type="RETRIEVAL_QUERY",
-            model_name=self.embedding_model,
-        )
-        query_embedding = normalizar_vectores(query_embedding)
-        scores, indices = self.index.search(query_embedding, top_k)
+        """Búsqueda directa en los archivos TXT de recetas.
+        Busca coincidencias en el nombre de la receta o en su contenido completo,
+        basada en tokens extraídos de la consulta del usuario."""
+        tokens = re.findall(r"[a-zñ0-9]+", consulta.lower())
         resultados: List[Dict[str, Any]] = []
-        for score, idx in zip(scores[0], indices[0]):
-            if idx < 0:
-                continue
-            chunk = self.chunks[int(idx)]
-            resultados.append(
-                {
-                    "score": float(score),
-                    "source": chunk.source,
-                    "page": chunk.page,
-                    "text": chunk.text,
-                }
-            )
+        for txt_path in self.recetarios_dir.glob("*.txt"):
+            for receta in extraer_recetas_txt(txt_path):
+                nombre_norm = normalizar_texto(receta["name"])
+                texto_norm = normalizar_texto(receta["text"])
+                if any(tok in nombre_norm or tok in texto_norm for tok in tokens):
+                    resultados.append({
+                        "score": 1.0,
+                        "source": txt_path.name,
+                        "page": None,
+                        "text": receta["text"],
+                    })
+                    if len(resultados) >= top_k:
+                        return resultados
         return resultados
 
     def contexto(self, consulta: str, top_k: int = 4) -> str:
-        """Devuelve contexto RAG formateado para el prompt."""
+        """Devuelve contexto RAG formateado para el prompt.
+        Utiliza `buscar`, que busca directamente en los archivos TXT.
+        Si `buscar` devuelve resultados, se formatean; de lo contrario se devuelve
+        un mensaje indicando que no hay contexto relevante.
+        """
         resultados = self.buscar(consulta, top_k=top_k)
+
+        # No se encontró nada
         if not resultados:
-            return "No se recupero contexto relevante desde los recetarios."
+            return "No se recuperó contexto relevante desde los recetarios."
+
+        # Formateo de los resultados encontrados
         partes = []
         for i, item in enumerate(resultados, start=1):
             partes.append(
@@ -702,11 +705,17 @@ class AgenteRecetas:
 
     def enviar_mensaje(self, mensaje: str) -> str:
         """Procesa un mensaje usando memoria, RAG, API externa y LLM."""
-        contexto_rag = self._contexto_rag(mensaje)
+        # Obtiene contexto RAG. Si no se encontró información relevante, el método devuelve un mensaje estándar.
+        contexto_rag_raw = self._contexto_rag(mensaje)
+        if contexto_rag_raw.startswith("No se recuperó"):
+            # No se incluye la sección de contexto en el prompt.
+            contexto_section = ""
+        else:
+            contexto_section = f"\nContexto recuperado por FAISS/RAG:\n{contexto_rag_raw}\n"
         resultado_api = self._consultar_api_si_aplica(mensaje)
         memoria = self._memoria_reciente()
-        prompt = f"""
-Instrucciones:
+        prompt = f"""Instrucciones:
+- Tu objetivo principal es que, a partir de una solicitud de un producto o ingrediente, encuentres y proporciones una receta adecuada.
 - Responde en espanol claro y util.
 - Usa el contexto RAG como fuente principal cuando sea relevante.
 - Usa el resultado de API cuando el usuario pida platos por region, ingrediente o datos externos.
@@ -715,10 +724,7 @@ Instrucciones:
 
 Memoria reciente:
 {memoria}
-
-Contexto recuperado por FAISS/RAG:
-{contexto_rag}
-
+{contexto_section}
 Resultado de API externa:
 {resultado_api}
 
